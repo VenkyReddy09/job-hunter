@@ -1,0 +1,80 @@
+# ============================================
+#  JOB HUNTER - SETTINGS
+#  Edit this file to customize your job search.
+# ============================================
+
+# --- Your timezone (used to show "posted at" times) ---
+# Change to Asia/Kolkata when you move to India.
+timezone: America/Los_Angeles
+
+# --- Countries to search ---
+# One output file per country is created each day.
+# adzuna_code: the country code Adzuna uses.
+# location_keywords: words that identify this country in a job's location text.
+countries:
+  USA:
+    adzuna_code: us
+    location_keywords: [United States, USA, U.S., US, Remote - US, Remote US,
+      New York, San Francisco, Seattle, Austin, Boston, Chicago, Los Angeles,
+      Denver, Atlanta, Dallas, San Jose, Washington DC,
+      ", CA", ", NY", ", WA", ", TX", ", MA", ", IL", ", CO", ", GA", ", NC",
+      ", VA", ", NJ", ", PA", ", FL", ", OR", ", AZ", ", MN", ", OH", ", MI", ", UT"]
+  India:
+    adzuna_code: in
+    location_keywords: [India, Bengaluru, Bangalore, Hyderabad, Pune, Chennai,
+      Mumbai, Gurugram, Gurgaon, Noida, Delhi, Kolkata, Ahmedabad, Kochi]
+
+# Jobs that only say "Remote" (no country) go to this country.
+remote_without_country_goes_to: USA
+
+# --- Which job titles count as Data Engineering ---
+# A job is kept if its title contains ANY of these (not case-sensitive).
+title_keywords: [data engineer, data engineering, analytics engineer, etl, elt,
+  data platform, data pipeline, data infrastructure, data integration,
+  data warehouse, big data, data developer, bi engineer, bi developer,
+  spark, databricks, snowflake, dbt]
+
+# Jobs whose title contains ANY of these are skipped.
+# Remove "intern" if you want internships too.
+exclude_title_keywords: [staff, principal, director, head of, vp,
+  vice president, manager, lead, intern]
+
+# Companies whose jobs you never want to see (exact name, not case-sensitive).
+# Example: exclude_companies: [Some Company, Another Company]
+exclude_companies: []
+
+# --- Required skills ---
+# The job description must mention at least `min_skills_match` of these.
+skills: [SQL, Python, Spark, PySpark]
+min_skills_match: 1
+
+# Extra skills to show in the "skills_matched" column (not required).
+bonus_skills: [Airflow, dbt, Snowflake, Databricks, Kafka, AWS, Azure, GCP,
+  BigQuery, Redshift, Scala, Hadoop, Hive, Docker, Kubernetes]
+
+# --- Experience ---
+# Keep jobs asking for this many years or fewer.
+max_years_experience: 5
+# Many jobs don't mention years at all. true = keep them.
+keep_if_years_not_mentioned: true
+
+# --- Adzuna search settings ---
+adzuna:
+  search_terms: [data engineer, analytics engineer, etl developer]
+  max_days_old: 1          # only jobs posted in the last day
+  results_per_page: 50     # Adzuna's maximum per request
+  max_pages: 1             # pages per search (each page = 1 request)
+  run_every_hours: 3       # Adzuna runs every 3rd hour to stay within free limits
+
+# --- Scraper settings ---
+parallel_workers: 20       # how many companies to check at the same time
+request_timeout: 15        # seconds to wait for a platform before giving up
+
+# --- Output locations ---
+master_file: data/jobs.csv
+output_folder: jobs
+
+# --- Freshness ---
+# Only keep jobs posted within this many days.
+# Without this, the first run would collect jobs that have been open for years.
+max_job_age_days: 7

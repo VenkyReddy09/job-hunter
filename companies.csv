@@ -1,0 +1,17 @@
+platform,slug,name
+greenhouse,stripe,Stripe
+greenhouse,databricks,Databricks
+greenhouse,airbnb,Airbnb
+greenhouse,coinbase,Coinbase
+greenhouse,dropbox,Dropbox
+greenhouse,robinhood,Robinhood
+greenhouse,lyft,Lyft
+greenhouse,pinterest,Pinterest
+lever,palantir,Palantir
+lever,spotify,Spotify
+ashby,ramp,Ramp
+ashby,notion,Notion
+ashby,openai,OpenAI
+ashby,linear,Linear
+smartrecruiters,BoschGroup,Bosch
+workable,prominence-advisors,Prominence Advisors
