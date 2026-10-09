@@ -1,0 +1,698 @@
+# Company names to look up. One per line. Lines starting with # are ignored.
+# The finder guesses each company's slug and checks Greenhouse, Lever, Ashby,
+# SmartRecruiters and Workable. Only companies with data roles open are added.
+# Optional: "Name | slug1, slug2" adds your own slug guesses.
+
+# ---------- Data platforms & tools (they hire many data engineers) ----------
+Snowflake
+dbt Labs | dbtlabs
+Fivetran
+Airbyte
+Astronomer
+Dagster Labs | dagster, dagsterlabs
+Prefect
+Hightouch
+Census
+Monte Carlo | montecarlodata
+Starburst
+Dremio
+ClickHouse
+SingleStore
+Yugabyte
+Couchbase
+DataStax
+Cockroach Labs | cockroachlabs
+Neo4j
+Redis
+Confluent
+Imply
+Tecton
+Hex
+Sigma Computing
+ThoughtSpot
+Alteryx
+Domo
+Collibra
+Alation
+Atlan
+Cribl
+Observe
+Elastic
+MongoDB
+Datadog
+Grafana Labs | grafanalabs
+New Relic
+Sumo Logic
+Amplitude
+Mixpanel
+Heap
+FullStory
+Segment
+Pinecone
+Weaviate
+Weights and Biases | wandb
+Scale AI | scaleai
+Anyscale
+Cohere
+Hugging Face | huggingface
+Perplexity
+Anthropic
+Glean
+Harvey
+Mistral
+Databricks
+Tabular
+Matillion
+Rudderstack
+Estuary
+Metabase
+Preset
+Motherduck
+Materialize
+Aiven
+Hasura
+Snorkel AI
+Labelbox
+
+# ---------- Software / SaaS ----------
+Airtable
+Asana
+Atlassian
+Benchling
+Box
+Calendly
+Canva
+Carta
+Checkr
+Clari
+Cloudflare
+Coursera
+Discord
+Duolingo
+Figma
+GitLab
+Gusto
+HashiCorp
+HubSpot
+Intercom
+Klaviyo
+Lattice
+Miro
+Okta
+PagerDuty
+Postman
+Retool
+Rippling
+Samsara
+Sentry
+Sourcegraph
+Squarespace
+Twilio
+Udemy
+Vercel
+Netlify
+Supabase
+PlanetScale
+Temporal
+Webflow
+Zapier
+LaunchDarkly
+CircleCI
+JFrog
+Harness
+Snyk
+Wiz
+1Password
+Grammarly
+Typeform
+Contentful
+Algolia
+Celonis
+UiPath
+Braze
+Iterable
+Attentive
+Gong
+Outreach
+Highspot
+Seismic
+Navan
+Deel
+Remote
+Oyster
+Personio
+Rubrik
+Cohesity
+Verkada
+Fastly
+Zscaler
+Cloudera
+Unity
+Roblox
+Reddit
+Nextdoor
+Faire
+Etsy
+Grubhub
+Instacart
+DoorDash
+Gopuff
+Thumbtack
+Upwork
+Zillow
+Opendoor
+Compass
+Peloton
+Wayfair
+Chewy
+Warby Parker
+Whatnot
+Vanta
+Drata
+Strava
+Quizlet
+Chegg
+Bumble
+Flock Safety
+Motive
+Abnormal Security
+Arctic Wolf
+Tanium
+Ironclad
+Persona
+Zipline
+Fetch Rewards | fetchrewards, fetch
+Moloco
+AppLovin
+Branch
+Twitch
+Lyft
+Airbnb
+Spotify
+
+# ---------- Fintech / crypto ----------
+Affirm
+Chime
+Plaid
+Brex
+Mercury
+SoFi
+Marqeta
+Toast
+Wealthfront
+Betterment
+Kraken
+Gemini
+Circle
+Chainalysis
+Anchorage Digital
+Ripple
+Block
+Klarna
+Wise
+Revolut
+Monzo
+Nubank
+Addepar
+Bill
+Upstart
+Socure
+Alloy
+Sardine
+Unit
+Modern Treasury
+Lithic
+Bolt
+Earnin
+Dave
+Current
+Esusu
+
+# ---------- Health / climate / mobility ----------
+Oscar Health
+Ro
+Hims and Hers | hims
+Spring Health
+Headspace
+Calm
+Noom
+Tempus
+Flatiron Health
+Komodo Health
+Zocdoc
+Doximity
+Sword Health
+Cityblock Health
+Devoted Health
+Included Health
+Garner Health
+Nuro
+Aurora
+Zoox
+Cruise
+Rivian
+Lucid Motors
+Relativity Space
+Anduril
+Arcadia
+Watershed
+
+# ---------- India-based / strong India presence ----------
+Razorpay
+Swiggy
+Zomato
+CRED
+Meesho
+PhonePe
+Groww
+Zepto
+ShareChat
+Dream11
+Dream Sports | dreamsports
+InMobi
+Ola
+Paytm
+Unacademy
+upGrad
+slice
+Jupiter
+Khatabook
+Rapido
+Urban Company
+Nykaa
+Lenskart
+Licious
+Cars24
+Spinny
+Zeta
+Juspay
+Setu
+Navi
+Acko
+PolicyBazaar
+Udaan
+Delhivery
+Shiprocket
+BharatPe
+Pine Labs
+Games24x7
+MPL
+Sprinklr
+Whatfix
+Icertis
+Uniphore
+LeadSquared
+Zluri
+Rocketlane
+Hevo Data | hevodata
+Freshworks
+BrowserStack
+Chargebee
+Innovaccer
+MindTickle
+Druva
+Sigmoid
+Tiger Analytics
+Fractal
+Tredence
+LatentView
+Quantiphi
+Thoughtworks
+Zeta Global
+Mu Sigma
+Course5 Intelligence | course5i
+Affine
+Gramener
+Polestar Solutions
+ZS Associates | zs
+Tekion
+Simplilearn
+Darwinbox
+Zoho
+Postman
+
+# ---------- More US / global tech ----------
+Abridge
+Adyen
+Aircall
+Airwallex
+Alchemy
+AlphaSense
+Applied Intuition
+Axon
+Bandwidth
+Bitwarden
+Blend
+Bloomreach
+Cerebras
+Clay
+ClickUp
+Clio
+Coda
+Codecademy
+Cresta
+Culture Amp
+Customer.io | customerio
+Databento
+Dataiku
+Descript
+Docker
+Dutchie
+Earnest
+Eightfold | eightfoldai
+EvenUp
+Expensify
+Fanatics
+Fireblocks
+Flexport
+Flywire
+Formlabs
+Forter
+Front
+GoodRx
+Gorgias
+Handshake
+Hinge Health
+Honeycomb
+Hopper
+Huntress
+Hyperscience
+Instabase
+Jasper
+Justworks
+Kandji
+Lacework
+Lemonade
+Lime
+Lucid Software | lucidsoftware
+Mapbox
+Medium
+Mercari
+Meter
+Mux
+NerdWallet
+Netskope
+Niantic
+Nylas
+Omada Health
+OneSignal
+Orca Security
+Outschool
+Pendo
+Philo
+Podium
+Postscript
+Pulumi
+Quora
+Recharge
+Replit
+Rokt
+Runway
+Salesloft
+SeatGeek
+ServiceTitan
+ShipBob
+Sierra
+Skydio
+Smartsheet
+Spotnana
+Sprout Social
+StockX
+Talkdesk
+Tome
+Turo
+Udacity
+Unqork
+Vimeo
+Weee
+Whoop
+Wikimedia
+Workato
+Writer
+Yelp
+Zip
+Zuora
+Zendesk
+Anaplan
+Cameo
+Chainguard
+Character AI | character
+Common Room
+Cypress
+Deepgram
+Doppler
+DraftKings
+FanDuel
+Fubo
+Gem
+Ginkgo Bioworks
+Guild Education | guild
+HiBob
+Kong
+LangChain
+LiveKit
+Luma AI | lumalabs
+Modal
+Neon
+Railway
+Render
+Sana
+Suno
+Synthesia
+Together AI | togetherai
+Unstructured
+xAI
+Nutanix
+Coupang
+Grab
+Gojek
+Sea
+Agoda
+Delivery Hero
+HelloFresh
+N26
+Wolt
+Zalando
+Booking
+Shopify
+Instawork
+Gecko Robotics
+Benchmark Analytics
+Sisu
+Sift
+Riskified
+Signifyd
+Placer.ai | placerai
+Yotpo
+Gainsight
+Productboard
+Pendo
+Mural
+Loom
+Calendly
+Superhuman
+Brightwheel
+Tebra
+Hippo
+Root Insurance | root
+Next Insurance
+Kin Insurance
+Pie Insurance
+Clearcover
+Openly
+Coalition
+
+# ---------- More fintech ----------
+Acorns
+Albert
+Apex Fintech | apexfintechsolutions
+Bilt
+Codat
+Figure
+Flex
+Forge
+iCapital
+Imprint
+Kalshi
+Melio
+Moov
+Novo
+Payoneer
+Pipe
+Rapyd
+Remitly
+Sezzle
+Tipalti
+Trustly
+Yieldstreet
+Zilch
+Navan
+Carta
+Stash
+Tala
+Ramp
+Varo
+MoneyLion
+Aspiration
+Branch
+Robinhood
+Public
+Titan
+Alpaca
+
+# ---------- More health ----------
+Carbon Health
+Cerebral
+Commure
+Curative
+Elation Health
+Forward
+Freenome
+Grail
+Lyra Health
+Maven Clinic
+Modern Health
+Parsley Health
+Truepill
+Virta Health
+Viz.ai | vizai
+Zus Health
+Thirty Madison
+Talkspace
+Ro
+Medely
+Nomi Health
+Spring Health
+SmarterDx
+Suki
+Athelas
+
+# ---------- Data / analytics consultancies (hire many data engineers) ----------
+Slalom
+66degrees
+phData | phdata
+Hakkoda
+Analytics8
+Kipi.ai | kipiai
+Datatonic
+Aimpoint Digital
+Brooklyn Data
+Fresh Gravity
+Wavicle
+Mactores
+Perficient
+Credera
+Lovelytics
+Tiger Analytics
+Sigmoid
+Tredence
+
+# ---------- More India ----------
+Apna
+Atlys
+BigBasket
+Blinkit
+boAt
+CleverTap
+ClearTax | clear
+CoinDCX
+CoinSwitch
+Cure.fit | curefit
+Dailyhunt
+Dunzo
+Eruditus
+Exotel
+FamPay
+Fi Money | fi
+FirstCry
+Glance
+GoKwik
+HealthifyMe
+HighRadius
+Hotstar
+Increff
+Instamojo
+Jar
+Jumbotail
+Kissflow
+LambdaTest
+Locus
+M2P Fintech | m2p
+MakeMyTrip
+MoEngage
+Ninjacart
+OfBusiness
+OkCredit
+Open Financial | open
+Pepperfry
+PharmEasy
+Physics Wallah | physicswallah
+Practo
+Rebel Foods
+Rupeek
+Scaler
+Servify
+Simpl
+smallcase
+Sugar Cosmetics
+Toplyne
+Turtlemint
+Vedantu
+WebEngage
+Yellow.ai | yellowai
+Zetwerk
+Zoomcar
+Netcore
+Capillary Technologies | capillary
+Perfios
+Signzy
+HyperVerge
+Observe.AI | observeai
+Vymo
+Haptik
+Gupshup
+Amagi
+Sarvam AI | sarvam
+Krutrim
+Upstox
+Zerodha
+Angel One
+Dezerv
+Kuku FM
+Pocket FM
+Stable Money
+InCred
+Lendingkart
+KreditBee
+Money View | moneyview
+Uni Cards | uni
+OneCard
+Freecharge
+MobiKwik
+Cleartrip
+ixigo
+EaseMyTrip
+CarDekho
+Droom
+NoBroker
+Square Yards
+Livspace
+Stanza Living
+Bounce
+Yulu
+Porter
+Shadowfax
+Ecom Express
+Xpressbees
+BlackBuck
+Rivigo
+Infra.Market | inframarket
+Moglix
+Plum
+Leap Finance | leap
+Classplus
+Teachmint
+Testbook
+Cuemath
+Seekho
+Chalo

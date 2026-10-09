@@ -6,7 +6,8 @@ import csv
 import html
 import re
 import sys
-from datetime import datetime, timezone
+import time
+from datetime import datetime, timedelta, timezone
 
 import requests
 import yaml
@@ -20,23 +21,31 @@ def load_config(path="config.yaml"):
     with open(path, encoding="utf-8") as f:
         return yaml.safe_load(f)
 
-def fetch_json(url, params=None, timeout=15):
+
+def fetch_json(url, params=None, timeout=15, retries=2):
     """
     Download a URL and return its JSON data.
-    If anything goes wrong (bad slug, network error), return None
-    instead of crashing, so one broken company never stops the whole run.
+    If the server says "too many requests" (HTTP 429), wait and try again (2s, then 4s).
+    If anything else goes wrong (bad slug, network error), return None instead of
+    crashing, so one broken company never stops the whole run.
     Error messages never include params, so secret keys never appear in logs.
     """
-    try:
-        response = requests.get(url, params=params, headers=HEADERS, timeout=timeout)
-        response.raise_for_status()      # turns 404/500 errors into exceptions
-        return response.json()
-    except requests.HTTPError as error:
-        print(f"  ! {url} returned HTTP {error.response.status_code}")
-        return None
-    except (requests.RequestException, ValueError) as error:
-        print(f"  ! Could not fetch {url}: {type(error).__name__}")
-        return None
+    for attempt in range(retries + 1):
+        try:
+            response = requests.get(url, params=params, headers=HEADERS, timeout=timeout)
+            if response.status_code == 429 and attempt < retries:
+                time.sleep(2 * (attempt + 1))
+                continue
+            response.raise_for_status()      # turns 404/500 errors into exceptions
+            return response.json()
+        except requests.HTTPError as error:
+            print(f"  ! {url} returned HTTP {error.response.status_code}")
+            return None
+        except (requests.RequestException, ValueError) as error:
+            print(f"  ! Could not fetch {url}: {type(error).__name__}")
+            return None
+    return None
+
 
 def clean_html(text):
     """Turn messy HTML into plain readable text."""
@@ -67,6 +76,15 @@ def to_utc_iso(value):
         return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     except (ValueError, OSError):
         return ""
+
+
+def posted_within(posted_at, max_days):
+    """True if a job (posted_at in our UTC format) is at most max_days old.
+    Unknown date or no limit -> True, so we never wrongly drop a job."""
+    if not posted_at or not max_days:
+        return True
+    posted = datetime.strptime(posted_at, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+    return datetime.now(timezone.utc) - posted <= timedelta(days=max_days)
 
 
 def title_matches(title, keywords):
@@ -116,7 +134,8 @@ def run_cli_test(platform, fetch_jobs):
             print("Country:  ", job["country_hint"] or "(not provided)")
             print("Posted:   ", job["posted_at"])
             print("Link:     ", job["apply_link"])
-            print("Desc:     ", job["description"][:150], "...")
+            print("Desc:     ", (job["description"][:150] + " ...") if job["description"]
+                  else "(not downloaded: title not relevant or job too old)")
         return
 
     print(f"Checking {platform} companies in companies.csv...\n")
