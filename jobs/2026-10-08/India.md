@@ -1,9 +1,22 @@
 # India: data jobs found on 2026-10-08
 
-**38 jobs** · newest first · times in America/Los_Angeles
+**51 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 09, 12:50 AM | Azure Databricks Data Engineer | Infosys Limited | Bangalore, Karnataka | Not specified | Not specified | Spark, Databricks, Azure | adzuna | [Apply](https://www.adzuna.in/details/5919977606?utm_medium=api&utm_source=354e2fff) |
+| Oct 09, 12:50 AM | Azure Databricks Data Engineer | Infosys Limited | Bangalore, Karnataka | Not specified | Not specified | Spark, Databricks, Azure | adzuna | [Apply](https://www.adzuna.in/details/5919977612?utm_medium=api&utm_source=354e2fff) |
+| Oct 08, 11:43 PM | Data Engineer ID94415 | AgileEngine | Kannur, Kerala | Not specified | Not specified | SQL, Python, Spark, PySpark, Airflow, Snowflake, AWS | adzuna | [Apply](https://www.adzuna.in/details/5919839390?utm_medium=api&utm_source=354e2fff) |
+| Oct 08, 11:43 PM | Data Engineer ID94415 | AgileEngine | Vileparle West, Mumbai | Not specified | Not specified | SQL, Python, Spark, PySpark, Airflow, Snowflake, AWS | adzuna | [Apply](https://www.adzuna.in/details/5919839374?utm_medium=api&utm_source=354e2fff) |
+| Oct 08, 11:43 PM | Data Engineer ID94415 | AgileEngine | Kochi, Ernakulam | Not specified | Not specified | SQL, Python, Spark, PySpark, Airflow, Snowflake, AWS | adzuna | [Apply](https://www.adzuna.in/details/5919839394?utm_medium=api&utm_source=354e2fff) |
+| Oct 08, 11:43 PM | Data Engineer ID94415 | AgileEngine | Jalalabad, Shahjahanpur | Not specified | Not specified | SQL, Python, Spark, PySpark, Airflow, Snowflake, AWS | adzuna | [Apply](https://www.adzuna.in/details/5919839387?utm_medium=api&utm_source=354e2fff) |
+| Oct 08, 11:43 PM | Data Engineer ID94415 | AgileEngine | Mini Sectt., Gurgaon | Not specified | Not specified | SQL, Python, Spark, PySpark, Airflow, Snowflake, AWS | adzuna | [Apply](https://www.adzuna.in/details/5919839373?utm_medium=api&utm_source=354e2fff) |
+| Oct 08, 11:43 PM | Data Engineer ID94415 | AgileEngine | Noida, Ghaziabad | Not specified | Not specified | SQL, Python, Spark, PySpark, Airflow, Snowflake, AWS | adzuna | [Apply](https://www.adzuna.in/details/5919839395?utm_medium=api&utm_source=354e2fff) |
+| Oct 08, 11:43 PM | Data Engineer ID94415 | AgileEngine | Sansad Marg, New Delhi | Not specified | Not specified | SQL, Python, Spark, PySpark, Airflow, Snowflake, AWS | adzuna | [Apply](https://www.adzuna.in/details/5919839380?utm_medium=api&utm_source=354e2fff) |
+| Oct 08, 11:43 PM | Data Engineer ID94415 | AgileEngine | Khengrapatti, Kolkata | Not specified | Not specified | SQL, Python, Spark, PySpark, Airflow, Snowflake, AWS | adzuna | [Apply](https://www.adzuna.in/details/5919839356?utm_medium=api&utm_source=354e2fff) |
+| Oct 08, 11:43 PM | Data Engineer ID94415 | AgileEngine | Motera, Ahmedabad | Not specified | Not specified | SQL, Python, Spark, PySpark, Airflow, Snowflake, AWS | adzuna | [Apply](https://www.adzuna.in/details/5919839357?utm_medium=api&utm_source=354e2fff) |
+| Oct 08, 11:43 PM | Data Engineer ID94415 | AgileEngine | Yerwada, Pune | Not specified | Not specified | SQL, Python, Spark, PySpark, Airflow, Snowflake, AWS | adzuna | [Apply](https://www.adzuna.in/details/5919839358?utm_medium=api&utm_source=354e2fff) |
+| Oct 08, 11:43 PM | Data Engineer ID94415 | AgileEngine | Hussainialam, Hyderabad | Not specified | Not specified | SQL, Python, Spark, PySpark, Airflow, Snowflake, AWS | adzuna | [Apply](https://www.adzuna.in/details/5919839364?utm_medium=api&utm_source=354e2fff) |
 | Oct 08, 05:11 PM | Senior Data Engineer | LiveRamp | Hyderabad, Telangana | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5919549528?utm_medium=api&utm_source=354e2fff) |
 | Oct 08, 05:04 PM | Azure Data Engineer | Trigent Software Private Limited | Chauth Ka Barwara, Sawai Madhopur | Not specified | Not specified | SQL, Azure | adzuna | [Apply](https://www.adzuna.in/details/5919544546?utm_medium=api&utm_source=354e2fff) |
 | Oct 08, 05:04 PM | Data Engineering Engineer II | Tekwissen India | India | Hybrid | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5919544342?utm_medium=api&utm_source=354e2fff) |
