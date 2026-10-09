@@ -6,7 +6,9 @@ to companies.csv.
 Usage (run from the main job-hunter folder):
   python -m tools.import_from_commoncrawl                 # discover + check + add
   python -m tools.import_from_commoncrawl --max-pages 10  # quicker, smaller discovery
-  python -m tools.import_from_commoncrawl --refresh       # ignore the saved discovery and redo it
+  python -m tools.import_from_commoncrawl --refresh       # discover again (adds to the saved list)
+  python -m tools.import_from_commoncrawl --refresh --only lever,smartrecruiters
+                                                          # rediscover just some platforms
   python -m tools.import_from_commoncrawl --any-country   # also keep companies hiring only elsewhere
 
 How it works:
@@ -64,8 +66,8 @@ SLUG_PATTERN = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]{0,80}$")
 # =====================================================================
 # PHASE 1: discover slugs from Common Crawl
 # =====================================================================
-def get_with_retries(url, params=None, timeout=60, attempts=4):
-    """Common Crawl's free index is often busy. Retry with growing waits (5s, 10s, 15s)."""
+def get_with_retries(url, params=None, timeout=90, attempts=6):
+    """Common Crawl's free index is often busy. Retry with growing waits (10s, 20s, ... 50s)."""
     for attempt in range(1, attempts + 1):
         try:
             response = requests.get(url, params=params, headers=HEADERS, timeout=timeout)
@@ -76,7 +78,7 @@ def get_with_retries(url, params=None, timeout=60, attempts=4):
         except requests.RequestException:
             pass
         if attempt < attempts:
-            time.sleep(5 * attempt)
+            time.sleep(10 * attempt)
     print(f"  ! Gave up on {url} after {attempts} attempts")
     return None
 
@@ -105,10 +107,12 @@ def slug_from_url(platform, url):
     return slug
 
 
-def discover(index_url, max_pages):
+def discover(index_url, max_pages, platforms):
     """Return {(platform, slug)} found in Common Crawl."""
     found = {}
     for platform, domains in DOMAINS.items():
+        if platform not in platforms:
+            continue
         for domain in domains:
             params = {"url": f"{domain}/*", "output": "json", "fl": "url"}
             info = get_with_retries(index_url, {**params, "showNumPages": "true"})
@@ -237,7 +241,10 @@ def main():
     parser = argparse.ArgumentParser(description="Import company job boards from Common Crawl.")
     parser.add_argument("--max-pages", type=int, default=40,
                         help="max index pages per domain (more = more companies, slower)")
-    parser.add_argument("--refresh", action="store_true", help="redo discovery from scratch")
+    parser.add_argument("--refresh", action="store_true",
+                        help="discover again; new slugs are ADDED to the saved list")
+    parser.add_argument("--only", default=",".join(DOMAINS),
+                        help="platforms to discover, e.g. lever,smartrecruiters")
     parser.add_argument("--any-country", action="store_true",
                         help="keep companies even if none of their jobs are in your countries")
     args = parser.parse_args()
@@ -249,7 +256,10 @@ def main():
         print(f"[1/3] DISCOVER: using saved {DISCOVERED_FILE} ({len(discovered)} slugs)")
     else:
         print("[1/3] DISCOVER: reading Common Crawl (slow; can take 20-40 minutes)...")
-        discovered = discover(latest_index(), args.max_pages)
+        platforms = [p.strip() for p in args.only.split(",") if p.strip()]
+        discovered = discover(latest_index(), args.max_pages, platforms)
+        if os.path.exists(DISCOVERED_FILE):          # keep slugs found in earlier runs
+            discovered |= load_discovered()
         save_discovered(discovered)
         print(f"  Saved {len(discovered)} slugs to {DISCOVERED_FILE}")
 
