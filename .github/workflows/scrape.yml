@@ -1,0 +1,56 @@
+# GitHub Actions workflow: runs the job pipeline every hour and commits the results.
+name: Hourly job scrape
+
+on:
+  schedule:
+    - cron: "7 * * * *"        # every hour at minute 7 (times are UTC)
+  workflow_dispatch:            # adds a "Run workflow" button for manual runs
+    inputs:
+      force_adzuna:
+        description: "Run Adzuna this time"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write               # allows the workflow to commit new jobs
+
+concurrency:
+  group: job-scrape             # never run two scrapes at the same time
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20         # safety stop if something hangs
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip            # reuses downloaded packages, so runs are faster
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run the pipeline
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python main.py ${{ inputs.force_adzuna && '--adzuna' || '' }}
+
+      - name: Commit new jobs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data jobs
+          if git diff --cached --quiet; then
+            echo "No new jobs this run."
+          else
+            git commit -m "Jobs update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase
+            git push
+          fi
