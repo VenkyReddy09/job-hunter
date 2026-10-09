@@ -1,6 +1,6 @@
 # India: data jobs found on 2026-10-09
 
-**43 jobs** · newest first · times in America/Los_Angeles
+**51 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -46,4 +46,12 @@
 | Oct 09, 09:45 AM | Data Engineer (ETL Development) | TreQ | Mumbai, Maharashtra | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5920509564?utm_medium=api&utm_source=354e2fff) |
 | Oct 09, 09:37 AM | Data Engineer - Amazon Flex, Flex Analytics | ADCI HYD 13 SEZ | Hyderabad, Telangana | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5920470140?utm_medium=api&utm_source=354e2fff) |
 | Oct 09, 04:13 AM | Analytics Engineer | Officeworks | Bangalore, Karnataka | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5920188552?utm_medium=api&utm_source=354e2fff) |
+| Oct 09, 03:24 AM | Senior Data Engineer | phData | India - Remote | Remote | 4+ yrs | SQL, Python, Spark, Airflow, dbt, Snowflake, Databricks, Kafka, AWS, Azure, GCP, Scala, Hadoop | greenhouse | [Apply](https://www.phdata.io/jobs?gh_jid=8111674) |
 | Oct 08, 04:18 AM | Sr. SQL ETL Developer | Insight Global | Pune, Maharashtra | Not specified | Not specified | SQL | adzuna | [Apply](https://www.adzuna.in/details/5918529552?utm_medium=api&utm_source=354e2fff) |
+| Oct 08, 02:03 AM | Analytics Engineer — Data Analytics & Transformation (DAT) | Celonis | Bangalore, India | Hybrid | 2+ yrs | SQL, Python | greenhouse | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7986348003?gh_jid=7986348003) |
+| Oct 07, 10:57 PM | Data Engineer | NielsenIQ | Pune, MH, India | Not specified | 2+ yrs | SQL, PySpark, Azure | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000154349278-data-engineer) |
+| Oct 07, 01:21 AM | Senior BI Engineer - Tableau Subject Matter Expert | Blend360 | Hyderabad, TS, India | Hybrid | 5+ yrs | SQL, Python, Snowflake, Databricks, BigQuery, Redshift, Hive | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/Blend360/744000154036371-senior-bi-engineer-tableau-subject-matter-expert) |
+| Oct 06, 03:30 AM | Senior Snowflake Engineer | Blend360 | Hyderabad, TS, India | Remote | 4+ yrs | SQL, Python, Airflow, dbt, Snowflake, AWS, Azure, GCP | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/Blend360/744000153722824-senior-snowflake-engineer) |
+| Oct 06, 02:04 AM | Power BI Developer | Eurofins | Bengaluru, KA, India | Hybrid | 4+ yrs | SQL, Python, Databricks, Azure | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000153701859-power-bi-developer-) |
+| Oct 05, 01:03 AM | Full Stack BI Engineer - PowerBI, Tableau and REST API | Blend360 | Hyderabad, TS, India | Hybrid | 5+ yrs | SQL, Python, AWS, Azure, GCP, Hive, Docker, Kubernetes | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/Blend360/744000153424250-full-stack-bi-engineer-powerbi-tableau-and-rest-api) |
+| Oct 04, 10:39 PM | Data Platform Engineer | Eurofins | Bengaluru, KA, India | Hybrid | 5+ yrs | SQL, Python, Databricks, Azure | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000153405499-data-platform-engineer) |
