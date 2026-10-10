@@ -1,9 +1,11 @@
 # USA: data jobs found on 2026-10-09
 
-**82 jobs** · newest first · times in America/Los_Angeles
+**84 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 09, 10:34 PM | Growth Data Engineer | Openart | San Carlos, California, USA | Hybrid | 3+ yrs | SQL, Python, GCP, BigQuery | ashby | [Apply](https://jobs.ashbyhq.com/openart/58cb5d8d-e6ae-45e7-b13d-600da678aad8) |
+| Oct 09, 08:27 PM | Senior Analytics Engineer - Finance (R6185) | Shieldai | San Diego, California | Onsite | Not specified | SQL, Python, Snowflake, Databricks | lever | [Apply](https://jobs.lever.co/shieldai/fa7d3c2a-f9c5-4060-b525-2398e3e754f6) |
 | Oct 09, 02:50 PM | Sr. Data Engineer (Remote) | Mode Mobile | Remote | Remote | 5+ yrs | SQL, Python, Spark, Kafka, AWS, Scala | greenhouse | [Apply](https://www.modemobile.com/open-role?gh_jid=8882484002) |
 | Oct 09, 01:53 PM | Data Engineer in Test | Prolaio | Chicago, IL | Not specified | 3+ yrs | SQL, Python, Snowflake, Databricks, GCP, BigQuery | greenhouse | [Apply](https://job-boards.greenhouse.io/prolaio/jobs/5442856008) |
 | Oct 09, 11:18 AM | Senior Analytics Engineer | Temporal | United States (Remote) | Remote | Not specified | SQL, Python, dbt, Hive | ashby | [Apply](https://jobs.ashbyhq.com/temporal/5d1cf6ea-c2c4-491a-b19a-ab95767c0d4b) |
