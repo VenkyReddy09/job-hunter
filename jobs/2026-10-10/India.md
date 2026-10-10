@@ -1,0 +1,27 @@
+# India: data jobs found on 2026-10-10
+
+**21 jobs** · newest first · times in America/Los_Angeles
+
+| Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
+|---|---|---|---|---|---|---|---|---|
+| Oct 10, 09:42 AM | ETL Developer with SAS | Enlink Managed Services Pvt Ltd | Kolkata, West Bengal | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5922057370?utm_medium=api&utm_source=354e2fff) |
+| Oct 10, 09:37 AM | Data Engineer I, Worldwide Operations Finance, WW Ops Finance S&A, WW Ops Finance S&A | ADCI - Karnataka | Bangalore, Karnataka | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5922023894?utm_medium=api&utm_source=354e2fff) |
+| Oct 10, 09:36 AM | data engineer | VY SYSTEMS PRIVATE LIMITED | Bangalore, Karnataka | Not specified | Not specified | SQL, Python, PySpark | adzuna | [Apply](https://www.adzuna.in/details/5922022164?utm_medium=api&utm_source=354e2fff) |
+| Oct 10, 09:36 AM | Senior Data Engineer | Unique Occupational | Bangalore, Karnataka | Not specified | 5+ yrs | Databricks | adzuna | [Apply](https://www.adzuna.in/details/5922022122?utm_medium=api&utm_source=354e2fff) |
+| Oct 10, 09:36 AM | Etl Developer | VY SYSTEMS PRIVATE LIMITED | Bangalore, Karnataka | Not specified | Not specified | Python, PySpark, Hadoop | adzuna | [Apply](https://www.adzuna.in/details/5922022109?utm_medium=api&utm_source=354e2fff) |
+| Oct 10, 09:36 AM | ETL Developer | VY SYSTEMS PRIVATE LIMITED | Bangalore, Karnataka | Not specified | Not specified | PySpark, Hadoop | adzuna | [Apply](https://www.adzuna.in/details/5922022110?utm_medium=api&utm_source=354e2fff) |
+| Oct 10, 09:26 AM | Snowflake Data Engineer | Weekday AI | Bangalore, Karnataka | Not specified | Not specified | Python, dbt, Snowflake | adzuna | [Apply](https://www.adzuna.in/details/5921982415?utm_medium=api&utm_source=354e2fff) |
+| Oct 10, 09:26 AM | Snowflake Data Engineer | Weekday AI | Hyderabad, Telangana | Not specified | Not specified | Python, dbt, Snowflake | adzuna | [Apply](https://www.adzuna.in/details/5921982391?utm_medium=api&utm_source=354e2fff) |
+| Oct 10, 09:26 AM | Snowflake Data Engineer | Weekday AI | Pune, Maharashtra | Not specified | Not specified | Python, dbt, Snowflake | adzuna | [Apply](https://www.adzuna.in/details/5921982345?utm_medium=api&utm_source=354e2fff) |
+| Oct 10, 09:26 AM | Data Engineer-ETL/Snowflake (S04) | Systango | Indore, Madhya Pradesh | Not specified | Not specified | Snowflake | adzuna | [Apply](https://www.adzuna.in/details/5921982137?utm_medium=api&utm_source=354e2fff) |
+| Oct 10, 09:26 AM | EY - GDS Consulting - AI and DATA - Azure Data Engineer - Senior | EY | Kolkata, West Bengal | Not specified | Not specified | Azure | adzuna | [Apply](https://www.adzuna.in/details/5921982058?utm_medium=api&utm_source=354e2fff) |
+| Oct 10, 09:26 AM | Data Engineer II (Databricks & Pyspark) | NCR Voyix | Chennai, Tamil Nadu | Not specified | Not specified | PySpark, Databricks | adzuna | [Apply](https://www.adzuna.in/details/5921981868?utm_medium=api&utm_source=354e2fff) |
+| Oct 10, 04:21 AM | Data Engineer II | Zebra Technologies | Bangalore, Karnataka | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5921760509?utm_medium=api&utm_source=354e2fff) |
+| Oct 10, 04:21 AM | Senior BI Platform and Analytics Engineer | Trinzic | Chennai, Tamil Nadu | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5921759209?utm_medium=api&utm_source=354e2fff) |
+| Oct 10, 04:19 AM | Data Engineer-Machine Learning | IBM | Bangalore, Karnataka | Hybrid | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5921755524?utm_medium=api&utm_source=354e2fff) |
+| Oct 10, 12:44 AM | Software Engineer (Data Systems/ETL) | Bizmatics India Private Limited | Mumbai, Maharashtra | Not specified | Not specified | SQL | adzuna | [Apply](https://www.adzuna.in/details/5921519752?utm_medium=api&utm_source=354e2fff) |
+| Oct 10, 12:44 AM | AI Data Analytics Engineer | Siemens Healthineers | Bangalore, Karnataka | Not specified | Not specified | Databricks, Azure | adzuna | [Apply](https://www.adzuna.in/details/5921519569?utm_medium=api&utm_source=354e2fff) |
+| Oct 09, 05:08 PM | Data Engineer(Data Scientist ) | Caterpillar Inc. | Chennai, Tamil Nadu | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5921112125?utm_medium=api&utm_source=354e2fff) |
+| Oct 09, 03:05 PM | Associate Data Engineer | TransUnion | Pune, Maharashtra | Hybrid | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5921008824?utm_medium=api&utm_source=354e2fff) |
+| Oct 09, 02:36 PM | Sr Spec , IT-ETL Developer | Baxter | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5920931457?utm_medium=api&utm_source=354e2fff) |
+| Oct 09, 03:59 AM | ETL Developer | Hirestar job Bank | Kochi, Ernakulam | Not specified | 4+ yrs | SQL | adzuna | [Apply](https://www.adzuna.in/details/5920169853?utm_medium=api&utm_source=354e2fff) |
