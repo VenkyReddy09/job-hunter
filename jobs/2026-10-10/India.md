@@ -1,6 +1,6 @@
 # India: data jobs found on 2026-10-10
 
-**47 jobs** · newest first · times in America/Los_Angeles
+**48 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | Oct 10, 02:53 PM | DE&A - Core - Advanced Data Engineering - Advanced Data Engineering (Other) | Zensar Technologies | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5922405226?utm_medium=api&utm_source=354e2fff) |
 | Oct 10, 02:50 PM | Digital Associate, Ring Data Engineering Services | Amazon | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5922393760?utm_medium=api&utm_source=354e2fff) |
 | Oct 10, 02:49 PM | Data Platform Engineer | Accenture | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5922390430?utm_medium=api&utm_source=354e2fff) |
+| Oct 10, 02:49 PM | Senior Data Engineer (India) | Karat | Remote (India - Bangalore ONLY) | Remote | 5+ yrs | SQL, Python, Airflow, AWS, Redshift, Docker | greenhouse | [Apply](https://job-boards.greenhouse.io/karat/jobs/8880766002) |
 | Oct 10, 02:48 PM | Data and Analytics Engineer, Enablement | Zensar Technologies | India | Not specified | Not specified | Databricks | adzuna | [Apply](https://www.adzuna.in/details/5922386199?utm_medium=api&utm_source=354e2fff) |
 | Oct 10, 02:43 PM | Data Platform Engineer | Accenture | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5922378346?utm_medium=api&utm_source=354e2fff) |
 | Oct 10, 02:42 PM | Data Engineer - Amazon Flex, Flex Analytics | Amazon | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5922375570?utm_medium=api&utm_source=354e2fff) |
