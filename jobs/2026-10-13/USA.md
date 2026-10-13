@@ -1,9 +1,14 @@
 # USA: data jobs found on 2026-10-13
 
-**101 jobs** · newest first · times in America/Los_Angeles
+**106 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 13, 02:21 PM | Jr. Data Engineer / Analyst | Woolpert | Remote - United States | Remote | Not specified | Python, Spark, Databricks, Azure | greenhouse | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4434848009) |
+| Oct 13, 02:17 PM | GTM Engineer - Data Platform | Modal | New York; San Francisco | Onsite | Not specified | SQL, Python, dbt, Snowflake | ashby | [Apply](https://jobs.ashbyhq.com/modal/dd6fe63b-8265-474e-b1f0-fcc1c5a28daf) |
+| Oct 13, 01:45 PM | Senior Data Engineer | Vultr | Remote - United States | Remote | 5+ yrs | SQL, Python, Spark, PySpark, Airflow, dbt, Kafka, BigQuery | ashby | [Apply](https://jobs.ashbyhq.com/Vultr/79d7e2d5-f159-417e-9498-2a3fc11cdbf0) |
+| Oct 13, 01:06 PM | Data Engineer II | SpyCloud | Austin, Texas | Not specified | 5+ yrs | Python, Spark, Databricks, AWS | greenhouse | [Apply](https://job-boards.greenhouse.io/spycloud/jobs/8028018003) |
+| Oct 13, 11:29 AM | Senior Data Engineer | Zip Co Limited | United States | Not specified | 5+ yrs | SQL, Python, Spark, Airflow, dbt, Snowflake, Databricks, Kafka, AWS, Azure, GCP, BigQuery, Redshift | greenhouse | [Apply](https://job-boards.greenhouse.io/zipcolimited/jobs/4715560006) |
 | Oct 13, 10:37 AM | Senior Battery Data Engineer | Redwood Materials | San Francisco, California, United States | Not specified | Not specified | Python, AWS, Azure, GCP | greenhouse | [Apply](https://boards.greenhouse.io/redwoodmaterials/jobs/6219757004?gh_jid=6219757004) |
 | Oct 13, 10:26 AM | Business Intelligence Analyst - Analytics Engineer Hybrid (USA Remote) | Turnitin, LLC | Chicago, IL, United States | Remote | 5+ yrs | SQL, Python, Airflow, dbt, Snowflake, BigQuery, Redshift | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/TurnitinLLC/744000155325249-business-intelligence-analyst-analytics-engineer-hybrid-usa-remote-) |
 | Oct 13, 10:25 AM | Business Intelligence Analyst - Analytics Engineer Hybrid (USA Remote) | Turnitin, LLC | Washington, DC, United States | Remote | 5+ yrs | SQL, Python, Airflow, dbt, Snowflake, BigQuery, Redshift | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/TurnitinLLC/744000155325199-business-intelligence-analyst-analytics-engineer-hybrid-usa-remote-) |
