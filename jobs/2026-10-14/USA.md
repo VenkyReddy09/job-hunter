@@ -1,9 +1,10 @@
 # USA: data jobs found on 2026-10-14
 
-**48 jobs** · newest first · times in America/Los_Angeles
+**49 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 14, 03:03 PM | Analytics Engineer | Reddit | Remote - United States | Remote | 3+ yrs | SQL, Python, Spark, Airflow, Scala | greenhouse | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8282760) |
 | Oct 14, 12:13 PM | Senior ETL Engineer | WorldStrides | United States | Hybrid | 5+ yrs | SQL, Python | greenhouse | [Apply](https://job-boards.greenhouse.io/world4822stri986des/jobs/5436770008) |
 | Oct 14, 10:51 AM | Data Platform Software Engineer | ServiceNow | Santa Clara, CALIFORNIA, United States | Hybrid | 2+ yrs | Python, Kubernetes | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000155582891-data-platform-software-engineer) |
 | Oct 14, 07:37 AM | Data Engineer | 540 | Remote | Remote | 2+ yrs | Python, Spark, Airflow, Kafka, AWS | greenhouse | [Apply](https://job-boards.greenhouse.io/540/jobs/8033199003) |
