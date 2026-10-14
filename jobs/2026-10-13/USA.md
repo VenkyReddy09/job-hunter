@@ -1,6 +1,6 @@
 # USA: data jobs found on 2026-10-13
 
-**106 jobs** · newest first · times in America/Los_Angeles
+**107 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -110,3 +110,4 @@
 | Oct 12, 06:33 AM | Sr ETL Developer w/ Databricks Lakehouse | Robert Half | Brandon, Hillsborough County | Hybrid | Not specified | Databricks | adzuna | [Apply](https://www.adzuna.com/land/ad/5924473760?se=bDp4aDHH8RGgLOK4tK8EzQ&utm_medium=api&utm_source=354e2fff&v=0FB66F6EE5C56A257922E592FEC8490BA949D51D) |
 | Oct 12, 06:30 AM | ETL DataStage Developer | CBTS | Cincinnati Airport, Cincinnati | Not specified | Not specified | SQL, Hadoop | adzuna | [Apply](https://www.adzuna.com/land/ad/5924465310?se=bDp4aDHH8RGgLOK4tK8EzQ&utm_medium=api&utm_source=354e2fff&v=47E4989B35858DCF4B1CA9AE61A40CBCB6EE81A7) |
 | Oct 11, 09:58 PM | ROOTS Hub ETL Developer | Vaya Health | US | Not specified | Not specified | Azure | adzuna | [Apply](https://www.adzuna.com/details/5924053271?utm_medium=api&utm_source=354e2fff) |
+| Oct 08, 11:15 AM | Senior Data Engineer | LendingTree | Remote | Remote | 5+ yrs | SQL, Python, dbt, Snowflake | greenhouse | [Apply](https://job-boards.greenhouse.io/lendingtree/jobs/8265347) |
