@@ -1,9 +1,10 @@
 # USA: data jobs found on 2026-10-15
 
-**80 jobs** · newest first · times in America/Los_Angeles
+**81 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 15, 04:32 AM | Data Engineer | City of New York | New York City, NY, United States | Not specified | 4+ yrs | SQL, Python, PySpark, Databricks | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016140221-data-engineer) |
 | Oct 14, 10:43 PM | Senior Test Data Engineer | CGI | US | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5928751437?se=_MYds33I8RGIsNw29cNR7w&utm_medium=api&utm_source=354e2fff&v=A533B76688CC1E49944552CED7495F50C012F72A) |
 | Oct 14, 10:24 PM | Data Engineer | Guidehouse | Madison, Madison County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5928744082?se=_MYds33I8RGIsNw29cNR7w&utm_medium=api&utm_source=354e2fff&v=F7F63AB20F824568A2C4B0C5D760DFD89B6ECCBE) |
 | Oct 14, 10:22 PM | Data Engineer - Mid-Level | Ignite Digital | US | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5928743990?utm_medium=api&utm_source=354e2fff) |

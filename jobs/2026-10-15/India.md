@@ -1,9 +1,10 @@
 # India: data jobs found on 2026-10-15
 
-**33 jobs** · newest first · times in America/Los_Angeles
+**34 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 15, 05:57 AM | Data Engineer with DataBricks | Capco | India - Pune | Not specified | 5+ yrs | SQL, Python, Spark, Databricks, AWS, Azure, GCP, Scala | greenhouse | [Apply](https://job-boards.greenhouse.io/capco/jobs/8284927) |
 | Oct 15, 04:27 AM | Senior Data Engineering Analyst | UnitedHealth Group | Noida, Ghaziabad | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5928584572?utm_medium=api&utm_source=354e2fff) |
 | Oct 15, 04:27 AM | Data Engineering Consultant | UnitedHealth Group | Hyderabad, Telangana | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5928584567?utm_medium=api&utm_source=354e2fff) |
 | Oct 15, 04:26 AM | Tech Consultant - Big Data Engineer | NTT America, Inc. | Pune, Maharashtra | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5928583740?utm_medium=api&utm_source=354e2fff) |
