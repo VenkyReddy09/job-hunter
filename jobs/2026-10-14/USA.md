@@ -1,9 +1,11 @@
 # USA: data jobs found on 2026-10-14
 
-**49 jobs** · newest first · times in America/Los_Angeles
+**51 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 14, 08:54 PM | Data Engineer | ALTEN Technology USA | Dallas, TX | Not specified | 2+ yrs | SQL, Python, Databricks, Kafka, Azure | greenhouse | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5266266007) |
+| Oct 14, 05:26 PM | Data Platform Engineer | Typesafe Ai | San Francisco Office | Onsite | Not specified | SQL, Airflow, Kafka | ashby | [Apply](https://jobs.ashbyhq.com/typesafe-ai/7a7cfaf6-b61a-4be1-afa6-d102480bf936) |
 | Oct 14, 03:03 PM | Analytics Engineer | Reddit | Remote - United States | Remote | 3+ yrs | SQL, Python, Spark, Airflow, Scala | greenhouse | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8282760) |
 | Oct 14, 12:13 PM | Senior ETL Engineer | WorldStrides | United States | Hybrid | 5+ yrs | SQL, Python | greenhouse | [Apply](https://job-boards.greenhouse.io/world4822stri986des/jobs/5436770008) |
 | Oct 14, 10:51 AM | Data Platform Software Engineer | ServiceNow | Santa Clara, CALIFORNIA, United States | Hybrid | 2+ yrs | Python, Kubernetes | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000155582891-data-platform-software-engineer) |
