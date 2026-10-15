@@ -1,9 +1,10 @@
 # USA: data jobs found on 2026-10-15
 
-**82 jobs** · newest first · times in America/Los_Angeles
+**83 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 15, 12:35 PM | Clinical Data Engineer | Viz Ai | United States - Remote | Remote | 5+ yrs | SQL, Python, GCP | ashby | [Apply](https://jobs.ashbyhq.com/Viz.ai/e5f9e2a7-3ec3-4d60-9d21-d99a60b7978e) |
 | Oct 15, 09:11 AM | Data Engineer II | Garner Health | New York City, New York | Not specified | 2+ yrs | SQL, Python, Spark, Airflow, dbt, Snowflake, AWS | greenhouse | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6225499004) |
 | Oct 15, 04:32 AM | Data Engineer | City of New York | New York City, NY, United States | Not specified | 4+ yrs | SQL, Python, PySpark, Databricks | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016140221-data-engineer) |
 | Oct 14, 10:43 PM | Senior Test Data Engineer | CGI | US | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5928751437?se=_MYds33I8RGIsNw29cNR7w&utm_medium=api&utm_source=354e2fff&v=A533B76688CC1E49944552CED7495F50C012F72A) |
