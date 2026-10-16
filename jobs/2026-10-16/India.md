@@ -1,11 +1,12 @@
 # India: data jobs found on 2026-10-16
 
-**37 jobs** · newest first · times in America/Los_Angeles
+**38 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
 | Oct 16, 09:36 AM | GCP Data engineer | VY SYSTEMS PRIVATE LIMITED | Hyderabad, Telangana | Not specified | Not specified | SQL, Python, PySpark, GCP | adzuna | [Apply](https://www.adzuna.in/details/5930417009?utm_medium=api&utm_source=354e2fff) |
 | Oct 16, 09:31 AM | Senior Data Scientist – AI, Data Engineering & Intelligent Automation | Bosch Group | Bangalore, Karnataka | Not specified | Not specified | SQL, PySpark, Databricks, Azure | adzuna | [Apply](https://www.adzuna.in/details/5930394092?utm_medium=api&utm_source=354e2fff) |
+| Oct 16, 07:09 AM | BI Developer | Eurofins | Bengaluru, KA, India | Hybrid | 4+ yrs | SQL, Python, Databricks, Azure | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000156010165-bi-developer) |
 | Oct 16, 04:32 AM | Test Engineer - SQL, ETL & Data Validation | IQVIA | Bangalore, Karnataka | Not specified | Not specified | SQL | adzuna | [Apply](https://www.adzuna.in/details/5930114475?utm_medium=api&utm_source=354e2fff) |
 | Oct 16, 04:30 AM | Data Engineer II, Infra-Finance Business intelligence & Transformations | Amazon | Hyderabad, Telangana | Not specified | Not specified | AWS | adzuna | [Apply](https://www.adzuna.in/details/5930110979?utm_medium=api&utm_source=354e2fff) |
 | Oct 16, 01:48 AM | Data Engineer (Immediate Joiner) | SPIKEWELL INDIA PVT. LTD. | Bhubaneswar, Khordha | Not specified | Not specified | SQL | adzuna | [Apply](https://www.adzuna.in/details/5929909887?utm_medium=api&utm_source=354e2fff) |

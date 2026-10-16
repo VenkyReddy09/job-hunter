@@ -1,9 +1,10 @@
 # USA: data jobs found on 2026-10-16
 
-**38 jobs** · newest first · times in America/Los_Angeles
+**39 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 16, 08:19 AM | Digital Analytics Engineer | Hometap | Remote | Remote | 2+ yrs | SQL | greenhouse | [Apply](https://job-boards.greenhouse.io/hometap/jobs/5266430007) |
 | Oct 16, 03:07 AM | Data Engineer III-6348 | itD Tech | San Jose | Not specified | 5+ yrs | SQL, Python, Spark, Airflow, Snowflake, BigQuery | greenhouse | [Apply](https://job-boards.greenhouse.io/itd/jobs/4455318009) |
 | Oct 16, 01:15 AM | Senior AI Data & Analytics Engineer II | Samsara | Chicago, Cook County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5930602845?utm_medium=api&utm_source=354e2fff) |
 | Oct 16, 01:10 AM | Data Engineer | Merchants Bancorp | Carmel, Hamilton County | Not specified | 3+ yrs | Python, Azure | adzuna | [Apply](https://www.adzuna.com/details/5930594781?utm_medium=api&utm_source=354e2fff) |
