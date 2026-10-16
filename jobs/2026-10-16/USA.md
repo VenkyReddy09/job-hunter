@@ -1,9 +1,10 @@
 # USA: data jobs found on 2026-10-16
 
-**41 jobs** · newest first · times in America/Los_Angeles
+**42 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 16, 02:35 PM | Sr. Data Engineer | NBCUniversal | New York, NEW YORK, United States | Hybrid | 5+ yrs | SQL, Snowflake, Databricks, AWS, GCP | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000156085739-sr-data-engineer) |
 | Oct 16, 12:04 PM | Business Analytics Engineer, Customer Insights | Radai | United States - Remote | Remote | 2+ yrs | SQL, Python, dbt, Snowflake | ashby | [Apply](https://jobs.ashbyhq.com/radai/df814c1f-2d46-49b9-89d7-4b211a05b751) |
 | Oct 16, 10:42 AM | Senior Analytics Engineer | Plaid | San Francisco HQ | Hybrid | 5+ yrs | SQL, Python, dbt, Snowflake, Databricks, BigQuery, Redshift | ashby | [Apply](https://jobs.ashbyhq.com/plaid/98c030bd-a72d-4045-87aa-b8ff7d0d43fb) |
 | Oct 16, 08:19 AM | Digital Analytics Engineer | Hometap | Remote | Remote | 2+ yrs | SQL | greenhouse | [Apply](https://job-boards.greenhouse.io/hometap/jobs/5266430007) |
