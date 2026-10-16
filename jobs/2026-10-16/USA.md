@@ -1,9 +1,11 @@
 # USA: data jobs found on 2026-10-16
 
-**39 jobs** · newest first · times in America/Los_Angeles
+**41 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 16, 12:04 PM | Business Analytics Engineer, Customer Insights | Radai | United States - Remote | Remote | 2+ yrs | SQL, Python, dbt, Snowflake | ashby | [Apply](https://jobs.ashbyhq.com/radai/df814c1f-2d46-49b9-89d7-4b211a05b751) |
+| Oct 16, 10:42 AM | Senior Analytics Engineer | Plaid | San Francisco HQ | Hybrid | 5+ yrs | SQL, Python, dbt, Snowflake, Databricks, BigQuery, Redshift | ashby | [Apply](https://jobs.ashbyhq.com/plaid/98c030bd-a72d-4045-87aa-b8ff7d0d43fb) |
 | Oct 16, 08:19 AM | Digital Analytics Engineer | Hometap | Remote | Remote | 2+ yrs | SQL | greenhouse | [Apply](https://job-boards.greenhouse.io/hometap/jobs/5266430007) |
 | Oct 16, 03:07 AM | Data Engineer III-6348 | itD Tech | San Jose | Not specified | 5+ yrs | SQL, Python, Spark, Airflow, Snowflake, BigQuery | greenhouse | [Apply](https://job-boards.greenhouse.io/itd/jobs/4455318009) |
 | Oct 16, 01:15 AM | Senior AI Data & Analytics Engineer II | Samsara | Chicago, Cook County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5930602845?utm_medium=api&utm_source=354e2fff) |
