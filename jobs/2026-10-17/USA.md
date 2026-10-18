@@ -1,9 +1,10 @@
 # USA: data jobs found on 2026-10-17
 
-**97 jobs** · newest first · times in America/Los_Angeles
+**98 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 17, 06:49 PM | Data Engineer, Finance (R6329) | Shieldai | San Diego, California | Onsite | Not specified | SQL, Python, PySpark, Snowflake, Databricks | lever | [Apply](https://jobs.lever.co/shieldai/a3eae89e-5a2b-4e6a-8e9c-e315923b0c71) |
 | Oct 17, 12:37 PM | NC FAST Power BI and Data engineer | Apex Systems | Raleigh, Wake County | Hybrid | Not specified | Azure | adzuna | [Apply](https://www.adzuna.com/land/ad/5932635227?se=PgDng47K8RGq65mh8wCbFA&utm_medium=api&utm_source=354e2fff&v=426FD1294A6ADA2765E4B5AE358B802628693A8A) |
 | Oct 17, 12:36 PM | Senior Data Engineer | Apex Systems | Progress, Washington County | Hybrid | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5932634802?se=PgDng47K8RGq65mh8wCbFA&utm_medium=api&utm_source=354e2fff&v=8038C6EE7DA7933D5577407154667A2EF9689E56) |
 | Oct 17, 12:32 PM | Data Engineer | CACI International, Inc. | Nichols Hills, Oklahoma County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5932621920?se=PgDng47K8RGq65mh8wCbFA&utm_medium=api&utm_source=354e2fff&v=96843E5946F002A65C36FD1AE25190844ED52D0C) |
