@@ -1,9 +1,13 @@
 # USA: data jobs found on 2026-10-18
 
-**43 jobs** · newest first · times in America/Los_Angeles
+**49 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 18, 06:50 PM | Senior Data Engineer - AMG Tech | PNC Bank | US | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5933952884?utm_medium=api&utm_source=354e2fff) |
+| Oct 18, 04:43 PM | Data Engineer | Guidehouse | Madison, Madison County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5933896421?se=ohrbmIPL8RGD3NuKZ_epjg&utm_medium=api&utm_source=354e2fff&v=0965187E2B286C721B2636B4B9A0B4C53BAC3075) |
+| Oct 18, 03:24 PM | Data Engineer | REPAY | Tempe, Maricopa County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5933806605?utm_medium=api&utm_source=354e2fff) |
+| Oct 18, 01:28 PM | Expert ETL Developer | Drevol | Washington, D.C., US | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5933683707?se=kgP3mYPL8RGjutuTSb6jOA&utm_medium=api&utm_source=354e2fff&v=0B7F8DBD652EAD1BC4F30F47969E68072A036CD4) |
 | Oct 18, 07:34 AM | Senior Data Engineer | Clear Street | Remote | Remote | 5+ yrs | SQL, Python, Airflow, dbt, Snowflake, Kubernetes | greenhouse | [Apply](https://job-boards.greenhouse.io/clearstreet/jobs/8296139) |
 | Oct 18, 06:57 AM | Senior Data Engineer- Fusion Experience | Oracle Corporation | Cleveland, Cuyahoga County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5933569688?utm_medium=api&utm_source=354e2fff) |
 | Oct 18, 06:57 AM | Sr. Data Engineer | NinjaTrader Group | Chicago, Cook County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5933569632?utm_medium=api&utm_source=354e2fff) |
@@ -15,6 +19,7 @@
 | Oct 18, 03:46 AM | Mid-Level Data Engineer, Databricks | TeamWorx Security, Inc. | Columbia, Howard County | Not specified | Not specified | Databricks | adzuna | [Apply](https://www.adzuna.com/details/5933404445?utm_medium=api&utm_source=354e2fff) |
 | Oct 18, 03:01 AM | Data Engineer | Grady Health System | US | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5933368771?utm_medium=api&utm_source=354e2fff) |
 | Oct 18, 02:48 AM | Senior Data Engineer | Idaho Power Company | Idaho City, Boise County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5933365155?utm_medium=api&utm_source=354e2fff) |
+| Oct 18, 02:40 AM | Business Analytics Engineer, Customer Insights | Rad AI | US | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5933362991?utm_medium=api&utm_source=354e2fff) |
 | Oct 18, 02:28 AM | Data Engineer - Senior - USA | Quantiphi | US | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5933360607?utm_medium=api&utm_source=354e2fff) |
 | Oct 18, 02:16 AM | Software Data Engineer | Booz Allen Hamilton | Honolulu, Hawaii | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5933358316?se=FrFGHx7L8RGM0pD5Nl7xjQ&utm_medium=api&utm_source=354e2fff&v=FC6378FB7B6B14862F92B42101633280D9054B51) |
 | Oct 18, 02:01 AM | Senior Analytics Engineer, Tableau | Resmed | Peachtree Corners, Gwinnett County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5933354508?utm_medium=api&utm_source=354e2fff) |
@@ -42,6 +47,7 @@
 | Oct 18, 12:07 AM | Data Engineer - People Analytics | CVS Health | Frankfort, Franklin County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5933214544?se=9Aw8Ih7L8RGq65mh8wCbFA&utm_medium=api&utm_source=354e2fff&v=ED7E5032960D8F95A6CF856041D761380FF6D368) |
 | Oct 18, 12:07 AM | Data Engineer - People Analytics | CVS Health | Carson Mall, Carson City | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5933213158?se=9Aw8Ih7L8RGq65mh8wCbFA&utm_medium=api&utm_source=354e2fff&v=D41DC24957137FB123B62B2B17F7663DE90627C8) |
 | Oct 17, 08:11 PM | ETL Developer with Python (CONTRACT) ON-SITE | Broadridge | Newark, Essex County | Not specified | Not specified | Python | adzuna | [Apply](https://www.adzuna.com/details/5933060607?utm_medium=api&utm_source=354e2fff) |
+| Oct 17, 06:45 PM | Senior PL/SQL ETL Developer (Whippany) | COVET IT INC | Whippany, Morris County | Hybrid | Not specified | SQL | adzuna | [Apply](https://www.adzuna.com/land/ad/5933007249?se=kgP3mYPL8RGjutuTSb6jOA&utm_medium=api&utm_source=354e2fff&v=FA18D70FB6D318CFEF99473C83DE9B21146FE5B7) |
 | Oct 17, 06:18 PM | Senior PL/SQL ETL Developer | COVET IT INC | Whippany, Morris County | Hybrid | Not specified | SQL | adzuna | [Apply](https://www.adzuna.com/land/ad/5932980872?se=JFxqJB7L8RGD3NuKZ_epjg&utm_medium=api&utm_source=354e2fff&v=A6265F65AF64F17344B2E43BCBD7C8CFEA6E9131) |
 | Oct 17, 06:14 PM | ETL Developer | Hadiamondstar Software Solutions LLC | US | Not specified | 2+ yrs | AWS | adzuna | [Apply](https://www.adzuna.com/land/ad/5932978889?se=JFxqJB7L8RGD3NuKZ_epjg&utm_medium=api&utm_source=354e2fff&v=2220BED50BE9EF891948DB509EECC003824760AC) |
 | Oct 17, 04:25 PM | Expert ETL Developer | Drevol | Washington, D.C., US | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5932893692?se=JFxqJB7L8RGD3NuKZ_epjg&utm_medium=api&utm_source=354e2fff&v=A115EF50AE95A704C190559F51CF8EA18784B704) |
