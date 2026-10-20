@@ -1,5 +1,14 @@
 # India: data jobs found on 2026-10-19
 
-**0 jobs** · newest first · times in America/Los_Angeles
+**8 jobs** · newest first · times in America/Los_Angeles
 
-_No new jobs yet. The scraper runs every hour._
+| Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
+|---|---|---|---|---|---|---|---|---|
+| Oct 19, 02:40 PM | Data Engineer | Accenture | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5934365829?utm_medium=api&utm_source=354e2fff) |
+| Oct 19, 02:37 PM | Data Engineer | Accenture | India | Not specified | Not specified | PySpark | adzuna | [Apply](https://www.adzuna.in/details/5934364461?utm_medium=api&utm_source=354e2fff) |
+| Oct 19, 02:33 PM | Data Engineering SMTS/LMTS- Revenue Analytics | Salesforce | Hyderabad, Telangana | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5934363341?utm_medium=api&utm_source=354e2fff) |
+| Oct 19, 02:31 PM | Data Engineer | DEME | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5934362770?utm_medium=api&utm_source=354e2fff) |
+| Oct 19, 02:30 PM | ETL Developer, Senior Associate | State Street | Hyderabad, Telangana | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5934362236?utm_medium=api&utm_source=354e2fff) |
+| Oct 19, 02:18 PM | Senior Data Engineer - Remote | Med Metrix | Chennai, Tamil Nadu | Remote | Not specified | Python, dbt | adzuna | [Apply](https://www.adzuna.in/details/5934355228?utm_medium=api&utm_source=354e2fff) |
+| Oct 19, 09:29 AM | Data Engineer II, International Seller Growth | Amazon | Hyderabad, Telangana | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5934108914?utm_medium=api&utm_source=354e2fff) |
+| Oct 19, 04:38 AM | Data Engineer | Cargill | Bangalore, Karnataka | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5933982067?utm_medium=api&utm_source=354e2fff) |
