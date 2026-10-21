@@ -1,5 +1,42 @@
 # India: data jobs found on 2026-10-21
 
-**0 jobs** · newest first · times in America/Los_Angeles
+**36 jobs** · newest first · times in America/Los_Angeles
 
-_No new jobs yet. The scraper runs every hour._
+| Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
+|---|---|---|---|---|---|---|---|---|
+| Oct 21, 11:55 AM | Engineer - Data Platform | Vrinda International | Bangalore, Karnataka | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5936723810?utm_medium=api&utm_source=354e2fff) |
+| Oct 21, 09:31 AM | Data Engineer, DAP Developer | Danfoss | Chennai, Tamil Nadu | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5936561337?utm_medium=api&utm_source=354e2fff) |
+| Oct 21, 04:34 AM | GCP, Data Engineer/Senior Consultant Specialist | HSBC | Hyderabad, Telangana | Hybrid | Not specified | GCP | adzuna | [Apply](https://www.adzuna.in/details/5936318892?utm_medium=api&utm_source=354e2fff) |
+| Oct 21, 04:34 AM | Data Engineer | Mondelez International | Mumbai, Maharashtra | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5936317486?utm_medium=api&utm_source=354e2fff) |
+| Oct 21, 04:34 AM | Data Engineer II | Mastercard | Pune, Maharashtra | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5936317382?utm_medium=api&utm_source=354e2fff) |
+| Oct 21, 04:33 AM | Data Engineer Python Developer | Citigroup | Pune, Maharashtra | Not specified | Not specified | Python | adzuna | [Apply](https://www.adzuna.in/details/5936315665?utm_medium=api&utm_source=354e2fff) |
+| Oct 21, 04:03 AM | Data Engineer | Siteminder | Pune | Hybrid | Not specified | SQL, Python, Spark, PySpark, Airflow, dbt, Snowflake, Databricks, AWS | ashby | [Apply](https://jobs.ashbyhq.com/siteminder/12645e28-2811-432e-b827-3efb478918f3) |
+| Oct 21, 01:05 AM | Data Engineer-Machine Learning | IBM | Bangalore, Karnataka | Hybrid | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5936082441?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 05:44 PM | AWS Data Engineer | EXL | India | Not specified | 4+ yrs | AWS | adzuna | [Apply](https://www.adzuna.in/details/5935779497?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 05:44 PM | Data Engineer | Milestone Technologies, Inc. | Hyderabad, Telangana | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5935779583?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 05:44 PM | Senior Data & AI Engineer (Databricks Specialist) | Cognida.ai | Hyderabad, Telangana | Not specified | Not specified | Databricks | adzuna | [Apply](https://www.adzuna.in/details/5935779558?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 05:44 PM | Control-M Data Engineer | CGI | Hyderabad, Telangana | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5935779469?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 03:08 PM | Data Engineer | Accenture | India | Not specified | Not specified | AWS | adzuna | [Apply](https://www.adzuna.in/details/5935585670?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 03:08 PM | Data Engineer (People Analytics) | Flutter | Hyderabad, Telangana | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5935585561?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 03:05 PM | Data Engineer | Lloyds Bank | India | Hybrid | Not specified | SQL, Python | adzuna | [Apply](https://www.adzuna.in/details/5935579891?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 03:05 PM | PIM Data Engineer | Caterpillar | Bangalore, Karnataka | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5935579648?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 03:03 PM | Data Platform Engineer | Accenture | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5935576967?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 03:01 PM | AWS Data Engineer | EXL | Bangalore, Karnataka | Not specified | Not specified | SQL, Python, AWS | adzuna | [Apply](https://www.adzuna.in/details/5935574169?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 02:59 PM | Data Platform Engineer | Accenture | India | Not specified | Not specified | Snowflake | adzuna | [Apply](https://www.adzuna.in/details/5935571234?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 02:59 PM | Data Engineer | Accenture | India | Not specified | Not specified | PySpark | adzuna | [Apply](https://www.adzuna.in/details/5935570929?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 02:28 PM | Software Engineer (Data Engineer - Azure) | Gartner | India | Not specified | Not specified | Azure | adzuna | [Apply](https://www.adzuna.in/details/5935555946?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 02:25 PM | Sr. Analyst, Data Engineer - India | Nationwide Global Services Center | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5935554288?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 02:24 PM | Data Platform Engineer | Accenture | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5935553941?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 02:23 PM | Senior Data Engineer, ITC | Nike | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5935553545?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 02:22 PM | Specialist, Data Engineer - India | Nationwide Global Services Center | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5935553124?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 02:22 PM | DE&A - Core - Data Engineering - Microsoft SQL Server | Zensar Technologies | India | Not specified | Not specified | SQL, Python, Snowflake | adzuna | [Apply](https://www.adzuna.in/details/5935552819?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 02:21 PM | Data Engineer | Accenture | India | Not specified | Not specified | Snowflake | adzuna | [Apply](https://www.adzuna.in/details/5935552650?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 02:20 PM | Data Engineer | Accenture | India | Not specified | Not specified | AWS | adzuna | [Apply](https://www.adzuna.in/details/5935551831?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 02:18 PM | Data Platform Engineer | Accenture | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5935550562?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 02:16 PM | Data Engineer | Mondelēz International | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5935549373?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 02:12 PM | Data Platform Engineer | Accenture | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5935546566?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 02:11 PM | Sr. Data Engineer - Data Engineering 4B | Genpact | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5935546461?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 02:10 PM | Data Engineer II B - GBS IND | Bank of America | Hyderabad, Telangana | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5935543342?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 09:46 AM | Data Engineer I | ADCI - Karnataka | Bangalore, Karnataka | Not specified | Not specified | SQL, AWS | adzuna | [Apply](https://www.adzuna.in/details/5935355225?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 09:40 AM | Senior Data Engineer | Solutionara Private Limited | Noida, Ghaziabad | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5935343254?utm_medium=api&utm_source=354e2fff) |
+| Oct 20, 09:32 AM | Senior Software Engineer - Data Platform | DevRev | Chennai, Tamil Nadu | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5935331111?utm_medium=api&utm_source=354e2fff) |
