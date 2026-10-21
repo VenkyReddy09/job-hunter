@@ -1,9 +1,10 @@
 # USA: data jobs found on 2026-10-20
 
-**9 jobs** · newest first · times in America/Los_Angeles
+**10 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 20, 06:05 PM | Senior Data Engineer | Phantom | Remote | Remote | 5+ yrs | SQL, Python, dbt, Snowflake | ashby | [Apply](https://jobs.ashbyhq.com/phantom/ced59678-c49a-4e3c-bf12-08582447313d) |
 | Oct 20, 12:03 PM | Data Engineer | tastylive | Chicago, Illinois | Hybrid | 2+ yrs | SQL, Python, Airflow, dbt, Snowflake, AWS, BigQuery, Redshift, Kubernetes | greenhouse | [Apply](https://job-boards.greenhouse.io/tastylive/jobs/6230133004) |
 | Oct 20, 12:02 PM | Data Engineer | tastytrade | Chicago, Illinois | Hybrid | 2+ yrs | SQL, Python, Airflow, dbt, Snowflake, AWS, BigQuery, Redshift, Kubernetes | greenhouse | [Apply](https://job-boards.greenhouse.io/tastytrade/jobs/6230131004) |
 | Oct 20, 10:02 AM | Senior QA Data Engineer | Gradient AI | Remote | Remote | 5+ yrs | SQL, Python, Spark, Airflow, dbt, Databricks | greenhouse | [Apply](https://job-boards.greenhouse.io/gradientai/jobs/8038980003) |
