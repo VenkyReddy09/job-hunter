@@ -1,9 +1,10 @@
 # USA: data jobs found on 2026-10-22
 
-**42 jobs** · newest first · times in America/Los_Angeles
+**43 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 22, 08:20 AM | Senior Data Engineer | Zeely | Remote | Remote | Not specified | SQL, Python, Airflow, dbt, GCP, BigQuery | ashby | [Apply](https://jobs.ashbyhq.com/zeely/3964fb00-a42e-4fcf-8901-0647175485ed) |
 | Oct 22, 03:56 AM | Enterprise Data Engineer | Riverside Research Institute | Wpafb, Greene County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5938034749?utm_medium=api&utm_source=354e2fff) |
 | Oct 22, 03:54 AM | Data Engineer, Mission Data Products - Clearance Required | LMI | Fort Belvoir, Fairfax County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5938033812?utm_medium=api&utm_source=354e2fff) |
 | Oct 22, 03:54 AM | Data Engineer II | Lewis Resource Management, LLC | Castle Hills, Bexar County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5938033729?utm_medium=api&utm_source=354e2fff) |
