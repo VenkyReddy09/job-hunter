@@ -1,9 +1,11 @@
 # USA: data jobs found on 2026-10-23
 
-**61 jobs** · newest first · times in America/Los_Angeles
+**63 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 23, 07:28 AM | Data Engineer | Unlock Health | Chicago, Illinois, United States; Nashville, Tennessee, United States; New York, NY, USA; Remote | Remote | 2+ yrs | SQL, Python, dbt, Snowflake, AWS, BigQuery | greenhouse | [Apply](https://job-boards.greenhouse.io/unlockhealth/jobs/5273649007) |
+| Oct 23, 04:04 AM | Senior Analytics Engineer | Imagine Worldwide | Remote | Remote | 3+ yrs | SQL, Python, Spark, PySpark, Airflow, dbt, Snowflake, Databricks, Kafka, AWS, BigQuery, Redshift, Docker | greenhouse | [Apply](https://job-boards.greenhouse.io/imagineworldwide/jobs/4464916009) |
 | Oct 22, 10:53 PM | Azure Data Engineer - 6566121 | Accenture | Charlotte, Mecklenburg County | Not specified | Not specified | Azure | adzuna | [Apply](https://www.adzuna.com/details/5939067941?utm_medium=api&utm_source=354e2fff) |
 | Oct 22, 10:44 PM | Analytics Engineer - Data Platform | Aline | US | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5939064301?utm_medium=api&utm_source=354e2fff) |
 | Oct 22, 10:32 PM | Business Intelligence - Data Engineer 133-2016 | Community Care | Tulsa, Tulsa County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5939062549?utm_medium=api&utm_source=354e2fff) |
