@@ -1,9 +1,10 @@
 # USA: data jobs found on 2026-10-23
 
-**66 jobs** · newest first · times in America/Los_Angeles
+**67 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 23, 02:07 PM | Senior Data Engineer | SoFi | Cottonwood Heights, Utah, United States | Not specified | 4+ yrs | SQL, Python, Airflow, dbt, Snowflake | greenhouse | [Apply](https://sofi.com/careers/job/8040823003?gh_jid=8040823003) |
 | Oct 23, 10:13 AM | Analytics Engineer | Convene Hospitality Group | Remote (US East Coast / Eastern Time Zone Preferred) | Remote | 3+ yrs | SQL, dbt, Snowflake | greenhouse | [Apply](https://job-boards.greenhouse.io/convene/jobs/8318638) |
 | Oct 23, 09:37 AM | Associate Data Engineer | BeyondTrust | Remote United States | Remote | Not specified | Python, Spark, Databricks | greenhouse | [Apply](https://job-boards.greenhouse.io/beyondtrust/jobs/8300876) |
 | Oct 23, 08:11 AM | Senior Software Engineer, Data Infrastructure | Voleon | Remote, United States; New York City, NY; Berkeley, CA | Remote | 5+ yrs | Python, Airflow, Snowflake, BigQuery, Docker, Kubernetes | ashby | [Apply](https://jobs.ashbyhq.com/voleon/06b71069-99ef-44d4-a890-b47584f35c0d) |
