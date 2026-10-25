@@ -1,5 +1,32 @@
 # USA: data jobs found on 2026-10-25
 
-**0 jobs** · newest first · times in America/Los_Angeles
+**26 jobs** · newest first · times in America/Los_Angeles
 
-_No new jobs yet. The scraper runs every hour._
+| Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
+|---|---|---|---|---|---|---|---|---|
+| Oct 25, 07:07 AM | Data Engineer - United States | Koch Industries | Wichita, Sedgwick County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5941684576?utm_medium=api&utm_source=354e2fff) |
+| Oct 25, 07:07 AM | Data Engineering Software Developer | Leidos | Washington, D.C., US | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5941684472?utm_medium=api&utm_source=354e2fff) |
+| Oct 25, 04:41 AM | Azure Data Engineer - 6540814 | Accenture | Tarrytown, Travis County | Not specified | Not specified | Azure | adzuna | [Apply](https://www.adzuna.com/details/5941549708?utm_medium=api&utm_source=354e2fff) |
+| Oct 25, 04:41 AM | Data Engineering, Management, & Governance Specialist - Finance | Accenture | Tarrytown, Travis County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5941549681?utm_medium=api&utm_source=354e2fff) |
+| Oct 25, 04:41 AM | Azure Data Engineer - 6566121 | Accenture | Old Sixth Ward, Houston | Not specified | Not specified | Azure | adzuna | [Apply](https://www.adzuna.com/details/5941549640?utm_medium=api&utm_source=354e2fff) |
+| Oct 25, 04:41 AM | Azure Data Engineer - 6566121 | Accenture | Irving, Dallas | Not specified | Not specified | Azure | adzuna | [Apply](https://www.adzuna.com/details/5941549638?utm_medium=api&utm_source=354e2fff) |
+| Oct 25, 04:41 AM | Data Engineering, Management, & Governance Specialist - Finance | Accenture | Old Sixth Ward, Houston | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5941549592?utm_medium=api&utm_source=354e2fff) |
+| Oct 25, 03:55 AM | Data Engineer / VA Claims Modernization | LMI | US | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5941533479?utm_medium=api&utm_source=354e2fff) |
+| Oct 25, 03:17 AM | Senior Data Engineer | Averity | New York City, New York | Not specified | Not specified | GCP, BigQuery | adzuna | [Apply](https://www.adzuna.com/land/ad/5941520717?se=-FK05qXQ8RG17O__M5KguQ&utm_medium=api&utm_source=354e2fff&v=9D4273F161AEAAAB66F40B39CCABA747E82BBC02) |
+| Oct 25, 03:10 AM | Analytics Engineer | Convene | US | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5941515357?utm_medium=api&utm_source=354e2fff) |
+| Oct 25, 03:05 AM | Senior Data Engineer - Encounter Processing & Data Platform | Morph Enterprise | Lincoln, Lancaster County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5941511056?se=-FK05qXQ8RG17O__M5KguQ&utm_medium=api&utm_source=354e2fff&v=85727E4CE34BD8DBDC66F5503D71B49F40D8DBD0) |
+| Oct 25, 03:03 AM | Fabric Analytics Engineer | EXL | Wisconsin, US | Hybrid | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5941509052?utm_medium=api&utm_source=354e2fff) |
+| Oct 25, 02:47 AM | Data Engineer | Memorial Hospital of Boscobel | US | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5941505258?utm_medium=api&utm_source=354e2fff) |
+| Oct 25, 02:43 AM | Data Engineer | Humana | Louisville, Jefferson County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5941503932?utm_medium=api&utm_source=354e2fff) |
+| Oct 25, 02:09 AM | BI Analytics Engineer | Stord | Atlanta, Fulton County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5941494284?utm_medium=api&utm_source=354e2fff) |
+| Oct 25, 01:57 AM | Data Systems and Analytics Engineer | Arbor Research | Loch Alpine, Washtenaw County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5941482953?utm_medium=api&utm_source=354e2fff) |
+| Oct 25, 01:33 AM | Data Engineering Specialist – AI | Bright Vision Technologies | Brentwood, Williamson County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5941456492?utm_medium=api&utm_source=354e2fff) |
+| Oct 25, 01:27 AM | Senior Data Engineer | ATL Technology | US | Not specified | Not specified | Azure | adzuna | [Apply](https://www.adzuna.com/details/5941454219?utm_medium=api&utm_source=354e2fff) |
+| Oct 25, 12:40 AM | Data Engineer | ThermoFisher Scientific | Pittsburgh, Allegheny County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5941434258?utm_medium=api&utm_source=354e2fff) |
+| Oct 25, 12:39 AM | Data Engineer-Consultant- AI$E | Deloitte | Rochester, Monroe County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5941430542?se=-FK05qXQ8RG17O__M5KguQ&utm_medium=api&utm_source=354e2fff&v=C8CDEA51DAF751D6D1BB6119E9D54FA72538F228) |
+| Oct 25, 12:39 AM | Data Engineer-Consultant- AI$E | Deloitte | Grand Central, Manhattan | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5941430547?se=-FK05qXQ8RG17O__M5KguQ&utm_medium=api&utm_source=354e2fff&v=55970AF1E590D36A26B46E1F92375E204DA835A8) |
+| Oct 25, 12:39 AM | Data Engineer-Consultant- AI$E | Deloitte | Williamsville, Erie County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5941430558?se=-FK05qXQ8RG17O__M5KguQ&utm_medium=api&utm_source=354e2fff&v=541F9F55B57483A8C33634F825FCEE3F12FD2BB1) |
+| Oct 25, 12:33 AM | Sr. Data Engineer / Software Engineer -Technology Health Analytics & Automation | U.S. Bank | Hopkins, Hennepin County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5941413943?se=1BHh56XQ8RG17O__M5KguQ&utm_medium=api&utm_source=354e2fff&v=AC9AE7F8C9D1AA43302D08E12FC2110D4FCA27B5) |
+| Oct 25, 12:25 AM | ETL Developer III | Avery Dennison | Cammack Village, Pulaski County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5941389604?se=bJyu6KXQ8RG17O__M5KguQ&utm_medium=api&utm_source=354e2fff&v=B68EF802350A2C60DBD8232CE94BA23B35B25A15) |
+| Oct 25, 12:22 AM | Junior ETL Developer | Leidos | Martinsburg, Berkeley County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5941379343?se=bJyu6KXQ8RG17O__M5KguQ&utm_medium=api&utm_source=354e2fff&v=6BC628BE22737B5BC4C4452D28A871847CFA5FA0) |
+| Oct 24, 02:07 PM | ETL Developer | vaaridatech | New Jersey, US | Not specified | Not specified | SQL | adzuna | [Apply](https://www.adzuna.com/land/ad/5940927363?se=bJyu6KXQ8RG17O__M5KguQ&utm_medium=api&utm_source=354e2fff&v=964033C1189CE7D21E5EF95091C869DDD6A736A4) |
