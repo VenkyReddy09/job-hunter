@@ -1,6 +1,6 @@
 # USA: data jobs found on 2026-10-25
 
-**26 jobs** · newest first · times in America/Los_Angeles
+**27 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | Oct 25, 12:39 AM | Data Engineer-Consultant- AI$E | Deloitte | Rochester, Monroe County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5941430542?se=-FK05qXQ8RG17O__M5KguQ&utm_medium=api&utm_source=354e2fff&v=C8CDEA51DAF751D6D1BB6119E9D54FA72538F228) |
 | Oct 25, 12:39 AM | Data Engineer-Consultant- AI$E | Deloitte | Grand Central, Manhattan | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5941430547?se=-FK05qXQ8RG17O__M5KguQ&utm_medium=api&utm_source=354e2fff&v=55970AF1E590D36A26B46E1F92375E204DA835A8) |
 | Oct 25, 12:39 AM | Data Engineer-Consultant- AI$E | Deloitte | Williamsville, Erie County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5941430558?se=-FK05qXQ8RG17O__M5KguQ&utm_medium=api&utm_source=354e2fff&v=541F9F55B57483A8C33634F825FCEE3F12FD2BB1) |
+| Oct 25, 12:39 AM | Data Engineer-Consultant- AI$E | Deloitte | Jericho, Nassau County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5941430576?se=9FbEzrzQ8RGay5oCiNsTjQ&utm_medium=api&utm_source=354e2fff&v=088686777C75A3EE59E1F1F4090D93FEDF5AAA38) |
 | Oct 25, 12:33 AM | Sr. Data Engineer / Software Engineer -Technology Health Analytics & Automation | U.S. Bank | Hopkins, Hennepin County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5941413943?se=1BHh56XQ8RG17O__M5KguQ&utm_medium=api&utm_source=354e2fff&v=AC9AE7F8C9D1AA43302D08E12FC2110D4FCA27B5) |
 | Oct 25, 12:25 AM | ETL Developer III | Avery Dennison | Cammack Village, Pulaski County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5941389604?se=bJyu6KXQ8RG17O__M5KguQ&utm_medium=api&utm_source=354e2fff&v=B68EF802350A2C60DBD8232CE94BA23B35B25A15) |
 | Oct 25, 12:22 AM | Junior ETL Developer | Leidos | Martinsburg, Berkeley County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5941379343?se=bJyu6KXQ8RG17O__M5KguQ&utm_medium=api&utm_source=354e2fff&v=6BC628BE22737B5BC4C4452D28A871847CFA5FA0) |
