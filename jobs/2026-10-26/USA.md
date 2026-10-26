@@ -1,9 +1,13 @@
 # USA: data jobs found on 2026-10-26
 
-**31 jobs** · newest first · times in America/Los_Angeles
+**35 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 26, 09:58 AM | Associate Data Engineer | Abacus Insights | United States | Not specified | Not specified | SQL, Spark, Snowflake, Databricks, AWS, Azure | greenhouse | [Apply](https://boards.greenhouse.io/abacusinsights/jobs/8917379002?gh_jid=8917379002) |
+| Oct 26, 08:49 AM | Senior Software Engineer, Data Platform | Sentilink | United States | Remote | 5+ yrs | Python, Spark, Kafka, AWS, Azure, GCP, Redshift, Hadoop, Docker, Kubernetes | ashby | [Apply](https://jobs.ashbyhq.com/sentilink/a2463ea0-6585-429c-95f2-10dc4a8cdae8) |
+| Oct 26, 07:33 AM | Data Engineer | Stuut Ai | San Francisco; New York City | Onsite | 5+ yrs | SQL, Python, Airflow, dbt, Snowflake, BigQuery | ashby | [Apply](https://jobs.ashbyhq.com/stuut-ai/04251b6f-289a-4b8b-8980-166d9b91d148) |
+| Oct 26, 07:27 AM | Data Engineer | Branch | Remote, US | Remote | 3+ yrs | SQL, Python, Airflow, dbt, Snowflake, GCP, Kubernetes | greenhouse | [Apply](https://job-boards.greenhouse.io/branch/jobs/8044391003) |
 | Oct 26, 12:56 AM | Data Integration Engineer II (CEMI)- 2 Year Term Appointment | Weill Cornell Medical College | Grand Central, Manhattan | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5942196626?se=vq6UqDvR8RGbf52rWtMMLA&utm_medium=api&utm_source=354e2fff&v=F0FC44EC50CBB5FD992476A881D43EAEA25716C8) |
 | Oct 26, 12:55 AM | Sr. Data Engineer | Seattle Children's | International, King County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5942195217?se=vq6UqDvR8RGbf52rWtMMLA&utm_medium=api&utm_source=354e2fff&v=C76BC5DCFE192E3D805A426C8F45A99801604BD7) |
 | Oct 26, 12:54 AM | Senior Data Engineer, Supply Chain & AI - Onsite Framingham, MA | Staples | Framingham, Middlesex County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5942193832?se=vq6UqDvR8RGbf52rWtMMLA&utm_medium=api&utm_source=354e2fff&v=B6605F72DC5602F9771F86870455B0568BED1070) |
