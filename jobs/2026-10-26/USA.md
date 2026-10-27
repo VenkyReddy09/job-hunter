@@ -1,9 +1,11 @@
 # USA: data jobs found on 2026-10-26
 
-**38 jobs** · newest first · times in America/Los_Angeles
+**40 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 26, 05:22 PM | Data Engineer | 540 | Remote | Remote | 3+ yrs | SQL, Python, Spark, Databricks, AWS | greenhouse | [Apply](https://job-boards.greenhouse.io/540/jobs/8045356003) |
+| Oct 26, 05:14 PM | 1184 - Senior Data Engineer | GoFasti | Remote | Remote | 5+ yrs | SQL, Python, Spark, Databricks | greenhouse | [Apply](https://careers.gofasti.com/job-application/6235433004?gh_jid=6235433004) |
 | Oct 26, 04:18 PM | Data Engineer | People Data Labs | Remote | Remote | 3+ yrs | SQL, Python, Spark, Airflow, dbt, Snowflake, Databricks, Kafka, AWS, Azure, GCP, BigQuery, Redshift, Scala | ashby | [Apply](https://jobs.ashbyhq.com/people-data-labs/98b60e46-4da9-4ca5-8e11-676b23e950c6) |
 | Oct 26, 04:13 PM | Senior Data Engineer | People Data Labs | Remote | Remote | 5+ yrs | SQL, Python, Spark, Airflow, dbt, Snowflake, Databricks, Kafka, AWS, Azure, GCP, BigQuery, Redshift, Scala | ashby | [Apply](https://jobs.ashbyhq.com/people-data-labs/ebb9e70d-595b-4e4e-ad5a-9425abd7abe6) |
 | Oct 26, 03:47 PM | Security Data Engineer | Anthropic | Remote-Friendly (Travel Required) / San Francisco, CA | Remote | Not specified | SQL | greenhouse | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5462966008) |
