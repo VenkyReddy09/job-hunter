@@ -1,8 +1,10 @@
 # USA: data jobs found on 2026-10-29
 
-**2 jobs** · newest first · times in America/Los_Angeles
+**4 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Oct 29, 07:23 AM | Senior Data Engineer (P1754) (P1752) | 84.51° | Cincinnati, OH; Chicago, IL | Not specified | 3+ yrs | Python, Spark, PySpark, Databricks, Kafka, Azure, Kubernetes | greenhouse | [Apply](https://job-boards.greenhouse.io/8451/jobs/8923332002) |
+| Oct 29, 07:17 AM | Databricks Field CTO | Blend360 | Columbia, MD, United States | Remote | 5+ yrs | SQL, Python, Spark, Databricks, AWS, Azure | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/Blend360/744000158531717-databricks-field-cto) |
 | Oct 29, 07:07 AM | Databricks Field CTO | Blend360 | Columbia, MD, United States | Remote | 5+ yrs | SQL, Python, Spark, Databricks, AWS, Azure | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/Blend360/744000158529699-databricks-field-cto) |
 | Oct 29, 06:30 AM | Senior Security Engineer – Data Pipeline & Observability - Mid-Atlantic region (Remote) | GuidePoint Security | Remote | Remote | 3+ yrs | Python, Snowflake, Databricks, Kafka, AWS, Azure, GCP, Kubernetes | greenhouse | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6238251004?gh_jid=6238251004) |
