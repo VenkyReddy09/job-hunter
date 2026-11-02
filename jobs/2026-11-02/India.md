@@ -1,9 +1,10 @@
 # India: data jobs found on 2026-11-02
 
-**31 jobs** · newest first · times in America/Los_Angeles
+**32 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Nov 02, 02:59 PM | Data Platform Engineer | Earnin | Bengaluru, India | Hybrid | 3+ yrs | SQL, Python, Spark, Databricks, Kafka, AWS, Azure, GCP, Scala | greenhouse | [Apply](https://job-boards.greenhouse.io/earnin/jobs/8348302) |
 | Nov 02, 09:20 AM | Data Engineer-Senior II-10 | FedEx GCS | Chennai, Tamil Nadu | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5950498951?utm_medium=api&utm_source=354e2fff) |
 | Nov 02, 09:18 AM | Data Engineer - Snowflake | Wipro | Bangalore, Karnataka | Not specified | Not specified | Snowflake | adzuna | [Apply](https://www.adzuna.in/details/5950495909?utm_medium=api&utm_source=354e2fff) |
 | Nov 02, 09:18 AM | Data Engineer | Tark Innovation Private Limited | Hyderabad, Telangana | Not specified | Not specified | SQL, Python, Spark, Snowflake, Kafka | adzuna | [Apply](https://www.adzuna.in/details/5950495922?utm_medium=api&utm_source=354e2fff) |
