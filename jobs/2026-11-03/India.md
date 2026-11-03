@@ -1,12 +1,14 @@
 # India: data jobs found on 2026-11-03
 
-**11 jobs** · newest first · times in America/Los_Angeles
+**13 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
 | Nov 03, 12:06 PM | Consultant, Data Engineering | Dell | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5951778974?utm_medium=api&utm_source=354e2fff) |
 | Nov 03, 11:15 AM | Data Engineer SE - II | Keywords Studios | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5951732385?utm_medium=api&utm_source=354e2fff) |
 | Nov 03, 10:12 AM | Data Engineer II | Akamai Technologies | Bangalore, Karnataka | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5951684489?utm_medium=api&utm_source=354e2fff) |
+| Nov 03, 09:49 AM | BI Developer | Eurofins | Bengaluru, KA, India | Hybrid | 4+ yrs | SQL, Python, Databricks, Azure | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000159462719-bi-developer) |
+| Nov 03, 09:48 AM | Power BI Developer | Eurofins | Bengaluru, KA, India | Hybrid | 4+ yrs | SQL, Python, Databricks, Azure | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000159461880-power-bi-developer-) |
 | Nov 03, 09:19 AM | Data Engineer L3 | Forbes Advisor | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5951620582?utm_medium=api&utm_source=354e2fff) |
 | Nov 03, 09:19 AM | Azure Data Engineer | Cognizant | Hyderabad, Telangana | Not specified | 5+ yrs | SQL, Python, PySpark, Azure | adzuna | [Apply](https://www.adzuna.in/details/5951620313?utm_medium=api&utm_source=354e2fff) |
 | Nov 03, 09:19 AM | Data Engineer | CGI | Hyderabad, Telangana | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5951620100?utm_medium=api&utm_source=354e2fff) |
