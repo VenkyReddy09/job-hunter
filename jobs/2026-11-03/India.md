@@ -1,0 +1,17 @@
+# India: data jobs found on 2026-11-03
+
+**11 jobs** · newest first · times in America/Los_Angeles
+
+| Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
+|---|---|---|---|---|---|---|---|---|
+| Nov 03, 12:06 PM | Consultant, Data Engineering | Dell | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5951778974?utm_medium=api&utm_source=354e2fff) |
+| Nov 03, 11:15 AM | Data Engineer SE - II | Keywords Studios | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5951732385?utm_medium=api&utm_source=354e2fff) |
+| Nov 03, 10:12 AM | Data Engineer II | Akamai Technologies | Bangalore, Karnataka | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5951684489?utm_medium=api&utm_source=354e2fff) |
+| Nov 03, 09:19 AM | Data Engineer L3 | Forbes Advisor | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5951620582?utm_medium=api&utm_source=354e2fff) |
+| Nov 03, 09:19 AM | Azure Data Engineer | Cognizant | Hyderabad, Telangana | Not specified | 5+ yrs | SQL, Python, PySpark, Azure | adzuna | [Apply](https://www.adzuna.in/details/5951620313?utm_medium=api&utm_source=354e2fff) |
+| Nov 03, 09:19 AM | Data Engineer | CGI | Hyderabad, Telangana | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5951620100?utm_medium=api&utm_source=354e2fff) |
+| Nov 03, 07:36 AM | Quant Data Engineer- | BestEx Research | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5951568295?utm_medium=api&utm_source=354e2fff) |
+| Nov 03, 07:36 AM | FBS Data Engineer with QA Automation | Capgemini | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5951568270?utm_medium=api&utm_source=354e2fff) |
+| Nov 03, 07:36 AM | FBS Data Engineer | Capgemini | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5951568277?utm_medium=api&utm_source=354e2fff) |
+| Nov 03, 07:36 AM | FBS Analytics Engineer | Capgemini | India | Not specified | 4+ yrs |  | adzuna | [Apply](https://www.adzuna.in/details/5951568265?utm_medium=api&utm_source=354e2fff) |
+| Nov 03, 06:50 AM | Senior Data Engineer | TripleLift | Pune, Maharashtra, India | Not specified | 5+ yrs | SQL, Python, Spark, Kafka, Scala | greenhouse | [Apply](https://triplelift.com/careers-posts/?gh_jid=8349639) |
