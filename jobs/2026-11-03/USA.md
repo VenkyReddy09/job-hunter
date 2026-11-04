@@ -1,9 +1,12 @@
 # USA: data jobs found on 2026-11-03
 
-**22 jobs** · newest first · times in America/Los_Angeles
+**25 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Nov 03, 03:23 PM | Senior Data Engineer | Machinify | Remote - US | Remote | 5+ yrs | SQL, Python, Spark, Airflow, dbt, Snowflake, Databricks, AWS, Scala | greenhouse | [Apply](https://job-boards.greenhouse.io/machinifyinc/jobs/4478208009) |
+| Nov 03, 02:19 PM | Senior Analytics Engineer | EnergyHub | Remote - United States | Remote | 3+ yrs | SQL, Python, dbt, Snowflake, BigQuery, Redshift | greenhouse | [Apply](https://job-boards.greenhouse.io/energyhub/jobs/8877372002) |
+| Nov 03, 01:57 PM | Senior Data Engineer | Mux | Remote, United States; New York, New York, United States; San Francisco, California, United States | Remote | 5+ yrs | SQL, Python, dbt, Snowflake, Databricks, Kafka, AWS, GCP, BigQuery | ashby | [Apply](https://jobs.ashbyhq.com/mux/bf4007f4-3610-4a67-acd6-0e7a7f11dbbe) |
 | Nov 03, 12:19 PM | Senior Data Engineer | Zip Co Limited | United States | Not specified | 5+ yrs | SQL, Python, Spark, Airflow, dbt, Snowflake, Databricks, Kafka, AWS, Azure, GCP, BigQuery, Redshift | greenhouse | [Apply](https://job-boards.greenhouse.io/zipcolimited/jobs/4725796006) |
 | Nov 03, 06:39 AM | Integration / API / Data Engineer | SkyePoint Decisions | Remote | Remote | 5+ yrs | SQL, Python, AWS | greenhouse | [Apply](https://job-boards.greenhouse.io/skyepointdecisionsinc/jobs/4477313009) |
 | Nov 03, 01:52 AM | Senior Data Engineer | Eliassen Group | US | Not specified | Not specified | SQL, dbt, Snowflake | adzuna | [Apply](https://www.adzuna.com/land/ad/5951811148?se=RBSOYZfX8RGNq_bSx6sLYg&utm_medium=api&utm_source=354e2fff&v=3DC8E93BB7241D4B69C8B9B531267AC1A84226CC) |
