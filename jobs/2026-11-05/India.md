@@ -1,9 +1,10 @@
 # India: data jobs found on 2026-11-05
 
-**24 jobs** · newest first · times in America/Los_Angeles
+**25 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Nov 05, 09:21 AM | Data Engineer | IntegriChain | Pune, MH, India | Remote | Not specified | SQL, Python, dbt, Snowflake, AWS, Azure | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/IntegriChain1/744000159936677-data-engineer) |
 | Nov 05, 05:13 AM | Senior Data Engineer | Zimmer Biomet | Bangalore, Karnataka | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5953957294?utm_medium=api&utm_source=354e2fff) |
 | Nov 05, 05:12 AM | Data Engineering Consultant | UnitedHealth Group | Hyderabad, Telangana | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5953957056?utm_medium=api&utm_source=354e2fff) |
 | Nov 05, 05:04 AM | Senior Data Engineer II | RELX INC | Chennai, Tamil Nadu | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5953951558?utm_medium=api&utm_source=354e2fff) |
