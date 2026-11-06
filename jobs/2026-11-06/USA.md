@@ -1,9 +1,10 @@
 # USA: data jobs found on 2026-11-06
 
-**61 jobs** · newest first · times in America/Los_Angeles
+**62 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Nov 06, 06:50 AM | Senior Data Engineer – Energy Trading & Cloud Data Solutions | Talan | Houston, , United States | Hybrid | 2+ yrs | SQL, Python, AWS, Azure, GCP | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/Talan/744000160223462-senior-data-engineer-energy-trading-cloud-data-solutions) |
 | Nov 05, 09:54 PM | Sr. Software Engineer, Data Engineering (X) | xAI | Palo Alto, CA | Hybrid | 5+ yrs | SQL, Python, Spark, Kafka, BigQuery, Scala | greenhouse | [Apply](https://job-boards.greenhouse.io/xai/jobs/5286971007) |
 | Nov 05, 08:05 PM | ETL Developer | Purple Drive Technologies | Columbus, Franklin County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5955466492?se=4NXB7cLZ8RGfyN3H3ce7sQ&utm_medium=api&utm_source=354e2fff&v=A2C0222F9690A9F1CEC3E1F3049839D54CA244E1) |
 | Nov 05, 08:01 PM | Data Engineer (Louisiana) | Blue Cross and Blue Shield of Louisiana | Baton Rouge, East Baton Rouge Parish | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5955456721?utm_medium=api&utm_source=354e2fff) |

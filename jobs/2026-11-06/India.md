@@ -1,6 +1,6 @@
 # India: data jobs found on 2026-11-06
 
-**29 jobs** · newest first · times in America/Los_Angeles
+**30 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
@@ -9,6 +9,7 @@
 | Nov 06, 05:44 AM | GCP Data Engineering / Senior Software Engineer | HSBC | Hyderabad, Telangana | Hybrid | Not specified | GCP | adzuna | [Apply](https://www.adzuna.in/details/5955406771?utm_medium=api&utm_source=354e2fff) |
 | Nov 06, 05:07 AM | Data Engineer, Aladdin Data, Associate | BlackRock | Mumbai, Maharashtra | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5955365467?utm_medium=api&utm_source=354e2fff) |
 | Nov 06, 05:07 AM | Data Engineer | Amgen | Hyderabad, Telangana | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5955365327?utm_medium=api&utm_source=354e2fff) |
+| Nov 06, 03:03 AM | Data Engineer (SQL, SSIS and ADF) | NielsenIQ | Chennai, TN, India | Not specified | 2+ yrs | SQL | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000160172768-data-engineer-sql-ssis-and-adf-) |
 | Nov 06, 12:58 AM | Data/ETL Engineer | ascendion | Bangalore, Karnataka | Not specified | Not specified | Spark, Airflow, Kafka | adzuna | [Apply](https://www.adzuna.in/details/5955047478?utm_medium=api&utm_source=354e2fff) |
 | Nov 06, 12:58 AM | Data Engineer-Data Integration | IBM | Coimbatore, Tamil Nadu | Hybrid | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5955047409?utm_medium=api&utm_source=354e2fff) |
 | Nov 06, 12:58 AM | Data/ETL Engineer | ascendion | Bangalore, Karnataka | Hybrid | Not specified | Python, PySpark | adzuna | [Apply](https://www.adzuna.in/details/5955047345?utm_medium=api&utm_source=354e2fff) |
