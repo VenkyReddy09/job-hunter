@@ -1,9 +1,10 @@
 # USA: data jobs found on 2026-11-05
 
-**36 jobs** · newest first · times in America/Los_Angeles
+**37 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Nov 05, 02:55 PM | Senior Data Engineer | ALO | Beverly Hills LAND, Beverly Hills, CA (HQ-L) | Not specified | 3+ yrs | SQL, Python, dbt, Kafka, AWS, Azure, GCP, BigQuery, Redshift | greenhouse | [Apply](https://boards.greenhouse.io/aloyoga/jobs/6250250004?gh_jid=6250250004) |
 | Nov 05, 11:44 AM | Business Intelligence Analyst - Analytics Engineer Hybrid (USA Remote) | Turnitin, LLC | Chicago, IL, United States | Remote | 5+ yrs | SQL, Python, Airflow, dbt, Snowflake, BigQuery, Redshift | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/TurnitinLLC/744000159957610-business-intelligence-analyst-analytics-engineer-hybrid-usa-remote-) |
 | Nov 05, 11:43 AM | Business Intelligence Analyst - Analytics Engineer Hybrid (USA Remote) | Turnitin, LLC | Washington, DC, United States | Remote | 5+ yrs | SQL, Python, Airflow, dbt, Snowflake, BigQuery, Redshift | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/TurnitinLLC/744000159956076-business-intelligence-analyst-analytics-engineer-hybrid-usa-remote-) |
 | Nov 05, 11:42 AM | Business Intelligence Analyst - Analytics Engineer Hybrid (USA Remote) | Turnitin, LLC | Atlanta, GA, United States | Remote | 5+ yrs | SQL, Python, Airflow, dbt, Snowflake, BigQuery, Redshift | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/TurnitinLLC/744000159958419-business-intelligence-analyst-analytics-engineer-hybrid-usa-remote-) |
