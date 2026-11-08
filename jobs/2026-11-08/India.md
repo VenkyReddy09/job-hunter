@@ -1,0 +1,15 @@
+# India: data jobs found on 2026-11-08
+
+**9 jobs** · newest first · times in America/Los_Angeles
+
+| Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
+|---|---|---|---|---|---|---|---|---|
+| Nov 08, 10:33 AM | Senior Snowflake Data Engineer: | Wissen Technology | Chennai, Tamil Nadu | Not specified | Not specified | Snowflake, AWS | adzuna | [Apply](https://www.adzuna.in/details/5958095263?utm_medium=api&utm_source=354e2fff) |
+| Nov 08, 10:33 AM | Data Engineer | Wissen Technology | Bangalore, Karnataka | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5958095327?utm_medium=api&utm_source=354e2fff) |
+| Nov 08, 04:10 AM | IT Developer - Data Engineer | Medtronic | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5957856054?utm_medium=api&utm_source=354e2fff) |
+| Nov 08, 04:09 AM | Data and Analytics Engineer | Citigroup | Chennai, Tamil Nadu | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5957853430?utm_medium=api&utm_source=354e2fff) |
+| Nov 08, 04:09 AM | Data Engineer II, Alexa AI - ML Engineering | Amazon | Bangalore, Karnataka | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5957852812?utm_medium=api&utm_source=354e2fff) |
+| Nov 08, 02:48 AM | Palantir Data Engineer | Seven N Half Private Limited | India | Not specified | 5+ yrs | SQL, Python, Spark, PySpark, Hadoop, Hive | adzuna | [Apply](https://www.adzuna.in/details/5957706344?utm_medium=api&utm_source=354e2fff) |
+| Nov 08, 12:46 AM | Data Engineer | Sutherland | Hyderabad, TS, India | Hybrid | 4+ yrs | SQL, Snowflake, Azure | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/Sutherland/744000160483469-data-engineer) |
+| Nov 07, 02:43 PM | Data Engineer | Accenture | India | Not specified | Not specified | Databricks, Azure | adzuna | [Apply](https://www.adzuna.in/details/5957235899?utm_medium=api&utm_source=354e2fff) |
+| Nov 07, 02:27 PM | Data Platform Engineer | Accenture | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5957222302?utm_medium=api&utm_source=354e2fff) |
