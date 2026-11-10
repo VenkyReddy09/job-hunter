@@ -1,9 +1,12 @@
 # India: data jobs found on 2026-11-10
 
-**4 jobs** · newest first · times in America/Los_Angeles
+**7 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Nov 10, 05:17 AM | Sr.Data Engineer | Bosch | bengaluru, , India | Not specified | 4+ yrs | SQL, Python, Databricks, Azure | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000160873298-sr-data-engineer) |
+| Nov 10, 02:25 AM | Data Test Engineer(	SQL / Python for test automation /Data warehouse /ETL testing/Databricks /Azure DevOps Test Plans)  AM | WNS Global Services | Bengaluru, KA, India | Not specified | 2+ yrs | SQL, Python, Snowflake, Databricks, Azure | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000160839061-data-test-engineer-sql-python-for-test-automation-data-warehouse-etl-testing-databricks-azure-devops-test-plans-am) |
+| Nov 10, 02:14 AM | Power BI Developer(Power BI Desktop ,DAX and Power Query, Snowflake SQL) AM - Data Visualization | WNS Global Services | Bengaluru, KA, India | Not specified | 3+ yrs | SQL, Snowflake, Databricks, Azure | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000160838739-power-bi-developer-power-bi-desktop-dax-and-power-query-snowflake-sql-am-data-visualization) |
 | Nov 09, 10:36 PM | Data Engineer II | Hinge Health | Bengaluru-HQ | Hybrid | 1+ yrs | SQL, Python, Spark, Airflow, dbt, Snowflake, Databricks, Kafka, AWS, Redshift, Docker | ashby | [Apply](https://jobs.ashbyhq.com/hinge-health/a59b0796-25b2-4731-aff7-4fb3403bfcdd) |
 | Nov 09, 09:03 PM | Sr.Data Engineer | Bosch | bengaluru, , India | Not specified | 4+ yrs | SQL, Python, Databricks, Azure | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000160793778-sr-data-engineer) |
 | Nov 09, 09:02 PM | Sr.Data Engineer | Bosch | bengaluru, , India | Not specified | 4+ yrs | SQL, Python, Databricks, Azure | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000160793618-sr-data-engineer) |
