@@ -1,7 +1,18 @@
 # India: data jobs found on 2026-11-09
 
-**1 jobs** · newest first · times in America/Los_Angeles
+**12 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Nov 09, 02:18 PM | Data Engineer with AI | CGI | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5959366922?utm_medium=api&utm_source=354e2fff) |
+| Nov 09, 02:15 PM | Data Architect - Data Engineering 4D | Genpact | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5959365465?utm_medium=api&utm_source=354e2fff) |
+| Nov 09, 02:12 PM | Data Engineer with AI | CGI | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5959364237?utm_medium=api&utm_source=354e2fff) |
+| Nov 09, 02:11 PM | Data Engineer – D&A | CGI | India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5959363925?utm_medium=api&utm_source=354e2fff) |
+| Nov 09, 10:22 AM | Senior Quant Data Engineer | BestEx Research | Bangalore, Karnataka | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5959118372?utm_medium=api&utm_source=354e2fff) |
+| Nov 09, 10:22 AM | Sr Data Engineer | Mattel, Inc. | Hyderabad, Telangana | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5959118363?utm_medium=api&utm_source=354e2fff) |
+| Nov 09, 10:22 AM | Data Platform Engineer (Graph Databases, 5-7 yrs) | Archer | Bangalore, Karnataka | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5959117902?utm_medium=api&utm_source=354e2fff) |
+| Nov 09, 10:22 AM | Marketing Data Engineer | HuntingCube | India | Not specified | Not specified | SQL, Snowflake, Azure | adzuna | [Apply](https://www.adzuna.in/details/5959117786?utm_medium=api&utm_source=354e2fff) |
+| Nov 09, 10:22 AM | AI Data Engineer | Weekday AI | Bangalore, Karnataka | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5959117785?utm_medium=api&utm_source=354e2fff) |
+| Nov 09, 10:22 AM | Sr. Data Engineer - Supply Chain Automation | Amazon Web Services  | Bangalore, Karnataka | Not specified | Not specified | AWS | adzuna | [Apply](https://www.adzuna.in/details/5959117732?utm_medium=api&utm_source=354e2fff) |
+| Nov 09, 03:47 AM | Senior Data Engineer, Global Converse, ITC | Nike Inc. | Karnataka, India | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5958788172?utm_medium=api&utm_source=354e2fff) |
 | Nov 09, 01:04 AM | REF97957J- Azure Data Engineering / AI Models | WNS Global Services | Noida, UP, India | Hybrid | 5+ yrs | SQL, Python, AWS, Azure, GCP | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000160560359-ref97957j-azure-data-engineering-ai-models) |
