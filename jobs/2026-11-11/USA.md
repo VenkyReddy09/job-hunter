@@ -1,9 +1,12 @@
 # USA: data jobs found on 2026-11-11
 
-**68 jobs** · newest first · times in America/Los_Angeles
+**71 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Nov 11, 02:15 PM | Senior Software Engineer, Data Platform | Commure | Mountain View, CA; Los Angeles, CA; New York City, NY; San Francisco, CA | Hybrid | 5+ yrs | SQL, Airflow, dbt, Snowflake, Databricks, Kafka, AWS, Azure, GCP, Kubernetes | ashby | [Apply](https://jobs.ashbyhq.com/Commure/039d70f4-a796-453c-9d8b-0926f91f1654) |
+| Nov 11, 01:04 PM | Analytics Engineer II - Paid Search / Acquisition | StubHub | Los Angeles, California, United States | Hybrid | 5+ yrs | SQL | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5034214101) |
+| Nov 11, 12:55 PM | Data Engineer (Starship) | SpaceX | Starbase, TX | Not specified | 1+ yrs | SQL, Python, Airflow, dbt | greenhouse | [Apply](https://boards.greenhouse.io/spacex/jobs/8938027002?gh_jid=8938027002) |
 | Nov 11, 09:19 AM | Analytics Engineer II - Paid Search / Acquisition | StubHub | New York, New York, United States | Hybrid | 5+ yrs | SQL | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5031190101) |
 | Nov 11, 08:49 AM | Data Engineer | Jobs for Humanity | Springfield, MA, United States | Remote | Not specified | SQL, Python, Spark, Airflow, Snowflake, Kafka, AWS, GCP, BigQuery, Redshift, Scala | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000161128299-data-engineer) |
 | Nov 11, 08:35 AM | Junior Power BI Developer | Rectangle Health | White Plains, New York | Not specified | 1+ yrs | SQL | greenhouse | [Apply](https://job-boards.greenhouse.io/rectanglehealth/jobs/5478680008) |
