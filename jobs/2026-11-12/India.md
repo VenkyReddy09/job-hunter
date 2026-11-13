@@ -1,9 +1,19 @@
 # India: data jobs found on 2026-11-12
 
-**56 jobs** · newest first · times in America/Los_Angeles
+**66 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Nov 12, 04:49 PM | Cloud Data Engineer | DATAECONOMY | Mini Sectt., Gurgaon | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5963566036?utm_medium=api&utm_source=354e2fff) |
+| Nov 12, 04:49 PM | Senior Software Engineer II - Data Engineering & Platform | PlaySimple Games | Richmond Town, Bangalore | Hybrid | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5963565942?utm_medium=api&utm_source=354e2fff) |
+| Nov 12, 04:48 PM | Data Engineer ID89384 | AgileEngine | Tondiarpet Fort St George, Chennai | Not specified | 5+ yrs | SQL, PySpark, Databricks, GCP | adzuna | [Apply](https://www.adzuna.in/details/5963565675?utm_medium=api&utm_source=354e2fff) |
+| Nov 12, 04:48 PM | Data Engineer ID89384 | AgileEngine | Mini Sectt., Gurgaon | Not specified | 5+ yrs | SQL, PySpark, Databricks, GCP | adzuna | [Apply](https://www.adzuna.in/details/5963565680?utm_medium=api&utm_source=354e2fff) |
+| Nov 12, 04:48 PM | Data Engineer ID89384 | AgileEngine | Depalpur, Indore | Not specified | 5+ yrs | SQL, PySpark, Databricks, GCP | adzuna | [Apply](https://www.adzuna.in/details/5963565674?utm_medium=api&utm_source=354e2fff) |
+| Nov 12, 04:48 PM | Data Engineer ID89384 | AgileEngine | Kochi, Ernakulam | Not specified | 5+ yrs | SQL, PySpark, Databricks, GCP | adzuna | [Apply](https://www.adzuna.in/details/5963565679?utm_medium=api&utm_source=354e2fff) |
+| Nov 12, 04:48 PM | Data Engineer ID89384 | AgileEngine | Vileparle West, Mumbai | Not specified | 5+ yrs | SQL, PySpark, Databricks, GCP | adzuna | [Apply](https://www.adzuna.in/details/5963565664?utm_medium=api&utm_source=354e2fff) |
+| Nov 12, 04:48 PM | Data Engineer ID89384 | AgileEngine | Khengrapatti, Kolkata | Not specified | 5+ yrs | SQL, PySpark, Databricks, GCP | adzuna | [Apply](https://www.adzuna.in/details/5963565663?utm_medium=api&utm_source=354e2fff) |
+| Nov 12, 04:48 PM | Data Engineer ID89384 | AgileEngine | Sanganer, Jaipur | Not specified | 5+ yrs | SQL, PySpark, Databricks, GCP | adzuna | [Apply](https://www.adzuna.in/details/5963565667?utm_medium=api&utm_source=354e2fff) |
+| Nov 12, 04:48 PM | Data Engineer ID89384 | AgileEngine | Yerwada, Pune | Not specified | 5+ yrs | SQL, PySpark, Databricks, GCP | adzuna | [Apply](https://www.adzuna.in/details/5963565668?utm_medium=api&utm_source=354e2fff) |
 | Nov 12, 02:33 PM | Advanced Data Engineer | Novo Nordisk | Bangalore, Karnataka | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5963483051?utm_medium=api&utm_source=354e2fff) |
 | Nov 12, 02:26 PM | Data Engineer III | PDI Technologies | Chennai, Tamil Nadu | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5963471069?utm_medium=api&utm_source=354e2fff) |
 | Nov 12, 02:26 PM | Data Engineer (Databricks) | P&G | India | Not specified | Not specified | Databricks | adzuna | [Apply](https://www.adzuna.in/details/5963470965?utm_medium=api&utm_source=354e2fff) |
