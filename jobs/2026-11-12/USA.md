@@ -1,9 +1,10 @@
 # USA: data jobs found on 2026-11-12
 
-**119 jobs** · newest first · times in America/Los_Angeles
+**120 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Nov 12, 07:06 PM | Data Engineer, Security Analytics | Wayve | Sunnyvale, California USA | Hybrid | Not specified | SQL, Python | ashby | [Apply](https://jobs.ashbyhq.com/wayve/330f5ef2-63e5-4de1-aa2c-a7581a07ea1a) |
 | Nov 12, 01:45 PM | Analytics Engineer | FanDuel | New York City | Hybrid | 1+ yrs | SQL, Python, dbt, Databricks | greenhouse | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8357302) |
 | Nov 12, 12:45 PM | Sr. Forward Deployed Data Engineer | Natera | US Remote | Remote | 1+ yrs | SQL, Python, Airflow, dbt, Snowflake, AWS | greenhouse | [Apply](https://job-boards.greenhouse.io/natera/jobs/6255111004) |
 | Nov 12, 11:29 AM | Analytics Engineer | FanDuel | New York City | Hybrid | 2+ yrs | SQL, Python, Databricks | greenhouse | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8368191) |

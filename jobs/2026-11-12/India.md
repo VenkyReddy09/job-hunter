@@ -1,9 +1,10 @@
 # India: data jobs found on 2026-11-12
 
-**66 jobs** · newest first · times in America/Los_Angeles
+**67 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Nov 12, 10:32 PM | Data Engineer | NielsenIQ | Chennai, TN, India | Not specified | 3+ yrs | SQL, Spark, PySpark, Databricks, Azure, Scala | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000161430579-data-engineer) |
 | Nov 12, 04:49 PM | Cloud Data Engineer | DATAECONOMY | Mini Sectt., Gurgaon | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5963566036?utm_medium=api&utm_source=354e2fff) |
 | Nov 12, 04:49 PM | Senior Software Engineer II - Data Engineering & Platform | PlaySimple Games | Richmond Town, Bangalore | Hybrid | Not specified |  | adzuna | [Apply](https://www.adzuna.in/details/5963565942?utm_medium=api&utm_source=354e2fff) |
 | Nov 12, 04:48 PM | Data Engineer ID89384 | AgileEngine | Tondiarpet Fort St George, Chennai | Not specified | 5+ yrs | SQL, PySpark, Databricks, GCP | adzuna | [Apply](https://www.adzuna.in/details/5963565675?utm_medium=api&utm_source=354e2fff) |
