@@ -1,9 +1,12 @@
 # USA: data jobs found on 2026-11-16
 
-**22 jobs** · newest first · times in America/Los_Angeles
+**25 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Nov 16, 11:46 AM | Software Engineer, Data Infrastructure | Thinkingmachines | San Francisco; New York | Onsite | Not specified | Python, Spark, Airflow, dbt, Kafka | ashby | [Apply](https://jobs.ashbyhq.com/ThinkingMachines/ec5f88b6-e221-499c-bc8f-a27b66213b87) |
+| Nov 16, 11:42 AM | Data Engineer - Agentic AI | Defense Unicorns | Springfield, VA | Not specified | 3+ yrs | SQL, Python, Airflow, Kafka, AWS, Azure, GCP, Kubernetes | greenhouse | [Apply](https://job-boards.greenhouse.io/defenseunicorns/jobs/5296643007) |
+| Nov 16, 02:54 AM | Senior Data Engineer | Aerovect | Boston - Remote; Italy ; Poland; Stockholm; London ; Berlin ; New York City - Remote; Amsterdam; Paris ; Remote; Toronto  - Remote; Seattle; Florida - Remote; Frankfurt ; United Kingdom (Remote); Colorado; Vancouver - Remote; Munich; Texas - Remote; Dublin | Remote | 5+ yrs | SQL, Python, AWS, GCP, BigQuery, Redshift, Kubernetes | ashby | [Apply](https://jobs.ashbyhq.com/AeroVect/ee6dfcdc-e7b9-4e69-aee4-fd72b7926448) |
 | Nov 15, 07:25 PM | Data Engineer - Databricks | Vaco LLC | Tampa, Hillsborough County | Not specified | Not specified | Databricks | adzuna | [Apply](https://www.adzuna.com/details/5967582881?utm_medium=api&utm_source=354e2fff) |
 | Nov 15, 06:36 PM | Junior Data Engineer/Junior Spring Boot Developer – Remote | SynergisticIT | Portland, Multnomah County | Remote | Not specified | SQL | adzuna | [Apply](https://www.adzuna.com/details/5967545163?utm_medium=api&utm_source=354e2fff) |
 | Nov 15, 06:36 PM | junior Data Engineer/Entry-Level Full-Stack Engineer – Remote | SynergisticIT | Rochester, Monroe County | Remote | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5967544961?utm_medium=api&utm_source=354e2fff) |
