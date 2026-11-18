@@ -1,9 +1,12 @@
 # USA: data jobs found on 2026-11-17
 
-**10 jobs** · newest first · times in America/Los_Angeles
+**13 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Nov 17, 08:03 PM | Data Engineer II, JVM | PlayStation Global | United States, Austin, TX | Hybrid | 3+ yrs | SQL, Python, Spark, Kafka, Scala, Docker, Kubernetes | greenhouse | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6252099004) |
+| Nov 17, 06:44 PM | Associate Data Engineer II | AbbVie | Mettawa, IL, United States | Hybrid | 0+ yrs | SQL, Python | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016926506-associate-data-engineer-ii) |
+| Nov 17, 05:41 PM | Data Engineer | Benchling | San Francisco, CA | Hybrid | 3+ yrs | SQL, Python, Airflow, dbt, Snowflake, AWS | ashby | [Apply](https://jobs.ashbyhq.com/benchling/c97e5668-29ee-4810-b7cc-35331ac123f5) |
 | Nov 17, 01:42 PM | Senior Data Engineer, Data Management & BI | NBCUniversal | New York, NEW YORK, United States | Remote | 5+ yrs | SQL, Spark, Airflow, Snowflake, Databricks, AWS, Redshift, Scala, Hive | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000162175261-senior-data-engineer-data-management-bi) |
 | Nov 17, 01:39 PM | Data Engineer III | Zinnia | Alpharetta, GA - Hybrid | Hybrid | 4+ yrs | SQL, Python, Airflow, dbt, Snowflake, AWS, Azure, BigQuery, Redshift | greenhouse | [Apply](https://job-boards.greenhouse.io/zinnia/jobs/4729504006) |
 | Nov 17, 12:59 PM | Data Engineer | Toast | Remote, US | Remote | 2+ yrs | SQL, Python, Airflow, dbt, Snowflake, AWS, Azure, GCP, BigQuery, Redshift, Scala, Docker | greenhouse | [Apply](https://careers.toasttab.com/jobs?gh_jid=8359240) |
