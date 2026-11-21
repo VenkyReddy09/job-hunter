@@ -1,9 +1,16 @@
 # USA: data jobs found on 2026-11-20
 
-**5 jobs** · newest first · times in America/Los_Angeles
+**12 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Nov 20, 04:05 PM | Data Engineer (EDW) | bet365 | Denver, Colorado, United States | Not specified | Not specified | SQL, Airflow, dbt, BigQuery | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/Bet3651/744000162835770-data-engineer-edw-) |
+| Nov 20, 01:45 PM | Data Engineer, CapTech Sports (Fan, Consumer, Brand & Media Data) | CapTech Consulting | Charlotte, NC, United States | Hybrid | Not specified | SQL, Python, Spark, Airflow, dbt, Snowflake, Databricks, AWS, Azure, GCP | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000162826539-data-engineer-captech-sports-fan-consumer-brand-media-data-) |
+| Nov 20, 01:42 PM | Data Engineer, CapTech Sports (Fan, Consumer, Brand & Media Data) | CapTech Consulting | Atlanta, GA, United States | Hybrid | Not specified | SQL, Python, Spark, Airflow, dbt, Snowflake, Databricks, AWS, Azure, GCP | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000162826159-data-engineer-captech-sports-fan-consumer-brand-media-data-) |
+| Nov 20, 01:39 PM | Senior Software Engineer, Data Platform | Doximity | San Francisco, CA or Remote (U.S.) | Remote | Not specified | SQL, Python, Airflow, Snowflake, Kafka, AWS, Docker, Kubernetes | greenhouse | [Apply](https://job-boards.greenhouse.io/doximity/jobs/8395571) |
+| Nov 20, 01:32 PM | Data Engineer, CapTech Sports (Competition Data) | CapTech Consulting | Charlotte, NC, United States | Hybrid | 4+ yrs | SQL, Python, Spark, Airflow, dbt, Snowflake, Databricks, Kafka, AWS, Azure, GCP | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000162824709-data-engineer-captech-sports-competition-data-) |
+| Nov 20, 01:31 PM | Sr. Data Developer | Esri | Redlands, CA | Not specified | 5+ yrs | SQL, Python, Spark, PySpark, Databricks, Azure, Scala | greenhouse | [Apply](https://www.esri.com/careers/5294047007?gh_jid=5294047007) |
+| Nov 20, 01:17 PM | Data Engineer, CapTech Sports (Competition Data) | CapTech Consulting | Atlanta, GA, United States | Hybrid | 4+ yrs | SQL, Python, Spark, Airflow, dbt, Snowflake, Databricks, Kafka, AWS, Azure, GCP | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000162822439-data-engineer-captech-sports-competition-data-) |
 | Nov 20, 10:48 AM | Data Engineer, Palo Alto | Rhombus Power, Inc. | Palo Alto, California, United States | Not specified | 3+ yrs | SQL, Python, AWS, Scala | greenhouse | [Apply](https://job-boards.greenhouse.io/rhombuspower/jobs/8209761003) |
 | Nov 20, 09:42 AM | Data Engineer I | HealthCheck360 | Dubuque, Iowa, United States | Not specified | 1+ yrs | SQL | greenhouse | [Apply](https://job-boards.greenhouse.io/hc360/jobs/5490927008) |
 | Nov 20, 09:00 AM | Senior Analytics Engineer -  Marketing | Point Digital Finance, Inc. | United States | Not specified | 5+ yrs | SQL, Python, dbt, Snowflake, AWS | greenhouse | [Apply](https://point.com/hiring?gh_jid=8945862002) |
