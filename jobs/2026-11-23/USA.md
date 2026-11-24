@@ -1,9 +1,11 @@
 # USA: data jobs found on 2026-11-23
 
-**71 jobs** · newest first · times in America/Los_Angeles
+**73 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Nov 23, 03:00 PM | Senior Data Engineer | Self Financial | Austin, TX | Hybrid | 5+ yrs | SQL, Python, Airflow, AWS, Redshift | greenhouse | [Apply](https://job-boards.greenhouse.io/selffinancial/jobs/6269291004) |
+| Nov 23, 02:18 PM | Senior Data Engineer | CodePath | Remote, United States | Remote | 5+ yrs | SQL, dbt, Snowflake, Databricks, BigQuery, Redshift | greenhouse | [Apply](https://job-boards.greenhouse.io/codepath/jobs/5307382007) |
 | Nov 23, 12:39 PM | Senior AI/ML Data Engineer | Public Storage | Burbank, CA, United States | Not specified | 2+ yrs | SQL, Python, Airflow, dbt, AWS, GCP, BigQuery | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/PublicStorage/744000163322248-senior-ai-ml-data-engineer) |
 | Nov 23, 10:40 AM | Senior Data Engineer, Data Management & BI | NBCUniversal | New York, NEW YORK, United States | Remote | 5+ yrs | SQL, Spark, Airflow, Snowflake, Databricks, AWS, Redshift, Scala, Hive | smartrecruiters | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163298409-senior-data-engineer-data-management-bi) |
 | Nov 23, 10:30 AM | Senior Software Engineer, Data Platform | Attentive | United States | Not specified | 3+ yrs | Spark, Snowflake, Kafka, AWS, Kubernetes | greenhouse | [Apply](https://job-boards.greenhouse.io/attentive/jobs/4519138009) |
