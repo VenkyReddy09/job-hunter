@@ -1,9 +1,11 @@
 # USA: data jobs found on 2026-11-25
 
-**46 jobs** · newest first · times in America/Los_Angeles
+**48 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Nov 25, 10:07 AM | Analytics Engineer, Data Platform | Upside | DC; New York; Austin; Chicago  | Hybrid | 3+ yrs | SQL, Python, Airflow, dbt, Snowflake, AWS | ashby | [Apply](https://jobs.ashbyhq.com/upside/022a5c37-643e-4b1c-a85a-aa5ba6600ca3) |
+| Nov 25, 09:56 AM | Data Engineer, Application Software | SpaceX | Bastrop, TX | Hybrid | 1+ yrs | SQL, Python, Spark, Snowflake, Kubernetes | greenhouse | [Apply](https://boards.greenhouse.io/spacex/jobs/8957969002?gh_jid=8957969002) |
 | Nov 25, 02:23 AM | Data Analytics Engineer | Rent the Runway | Brooklyn, NY (Rent the Runway HQ) | Not specified | 2+ yrs | SQL, dbt, BigQuery | greenhouse | [Apply](https://job-boards.greenhouse.io/renttherunway/jobs/8415758) |
 | Nov 24, 11:20 PM | Data Engineer | IBR | Rockledge, Brevard County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5978290363?utm_medium=api&utm_source=354e2fff) |
 | Nov 24, 11:20 PM | Data Warehouse Engineer | GardaWorld Security Services U.S. | Shawnee, Johnson County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/land/ad/5978290350?se=iqhoR83o8RGCzaY2c7Xc0w&utm_medium=api&utm_source=354e2fff&v=DB8752F361520A570D084A61BE4BAB59C34A4013) |
