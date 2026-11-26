@@ -1,9 +1,10 @@
 # USA: data jobs found on 2026-11-26
 
-**67 jobs** · newest first · times in America/Los_Angeles
+**68 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Nov 26, 08:26 AM | Data Engineer III (6399) | itD Tech | Seattle | Not specified | 5+ yrs | SQL | greenhouse | [Apply](https://job-boards.greenhouse.io/itd/jobs/4524980009) |
 | Nov 26, 01:28 AM | Fabric Data Engineer (Bond Brothers Inc) | BOND | Medford, Middlesex County | Hybrid | Not specified | Azure | adzuna | [Apply](https://www.adzuna.com/details/5979768484?utm_medium=api&utm_source=354e2fff) |
 | Nov 26, 01:16 AM | T-Ads Senior Data Engineer | T-Mobile | Philadelphia, Jefferson County | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5979762904?utm_medium=api&utm_source=354e2fff) |
 | Nov 26, 01:14 AM | Commercial Data & BI Engineer | Evergen | US | Not specified | Not specified |  | adzuna | [Apply](https://www.adzuna.com/details/5979762199?utm_medium=api&utm_source=354e2fff) |
