@@ -1,9 +1,11 @@
 # USA: data jobs found on 2026-11-25
 
-**48 jobs** · newest first · times in America/Los_Angeles
+**50 jobs** · newest first · times in America/Los_Angeles
 
 | Posted | Title | Company | Location | Work Type | Experience | Skills | Source | Apply |
 |---|---|---|---|---|---|---|---|---|
+| Nov 25, 05:13 PM | Data Engineer | Discord | San Francisco Bay Area | Not specified | 2+ yrs | SQL, Python, dbt, BigQuery | greenhouse | [Apply](https://job-boards.greenhouse.io/discord/jobs/8942144002) |
+| Nov 25, 02:47 PM | Sr BI & Analytics Engineer - Tableau, Salesforce, & SQL Snowflake - Hybrid - Addison, TX | PRO-spectus | Addison, TX | Hybrid | 4+ yrs | SQL, dbt, Snowflake | greenhouse | [Apply](https://job-boards.greenhouse.io/prospectus/jobs/4519328009) |
 | Nov 25, 10:07 AM | Analytics Engineer, Data Platform | Upside | DC; New York; Austin; Chicago  | Hybrid | 3+ yrs | SQL, Python, Airflow, dbt, Snowflake, AWS | ashby | [Apply](https://jobs.ashbyhq.com/upside/022a5c37-643e-4b1c-a85a-aa5ba6600ca3) |
 | Nov 25, 09:56 AM | Data Engineer, Application Software | SpaceX | Bastrop, TX | Hybrid | 1+ yrs | SQL, Python, Spark, Snowflake, Kubernetes | greenhouse | [Apply](https://boards.greenhouse.io/spacex/jobs/8957969002?gh_jid=8957969002) |
 | Nov 25, 02:23 AM | Data Analytics Engineer | Rent the Runway | Brooklyn, NY (Rent the Runway HQ) | Not specified | 2+ yrs | SQL, dbt, BigQuery | greenhouse | [Apply](https://job-boards.greenhouse.io/renttherunway/jobs/8415758) |
